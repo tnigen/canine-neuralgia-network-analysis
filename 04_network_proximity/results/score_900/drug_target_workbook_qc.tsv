@@ -1,0 +1,10 @@
+metric	value
+input_file	drug_target_dog_string.xlsx
+worksheet	Sheet1
+confirmed_columns	drug|dog_target_protein|string_protein_id
+number_of_drugs	1546
+total_target_rows	4919
+blank_rows_ignored	0
+rows_excluded_missing_drug_name	0
+rows_with_missing_string_protein_id	93
+drugs_with_zero_valid_targets	126

@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.txt -text
+*.csv -text
+*.tsv -text
+*.gz binary
+# Preserve archived CSV bytes, including their original line endings.
+*.csv -text

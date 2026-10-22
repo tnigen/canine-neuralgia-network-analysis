@@ -1,0 +1,188 @@
+workbook_row	drug	dog_target_protein	string_protein_id	reason
+22	acamprosate	GRIN3B		missing_string_protein_id
+31	acepromazine	DRD1		missing_string_protein_id
+36	acetazolamide	CA12	9615.ENSCAFP00000057765	absent_from_selected_interactome
+37	acetazolamide	CA14	9615.ENSCAFP00000017307	absent_from_selected_interactome
+38	acetazolamide	CA2		missing_string_protein_id
+40	acetazolamide	CA4	9615.ENSCAFP00000060847	absent_from_selected_interactome
+57	acipimox	CA12	9615.ENSCAFP00000057765	absent_from_selected_interactome
+58	acipimox	CA13	9615.ENSCAFP00000045078	outside_netmedpy_background_lcc
+59	acipimox	CA14	9615.ENSCAFP00000017307	absent_from_selected_interactome
+60	acipimox	CA2		missing_string_protein_id
+62	acipimox	CA4	9615.ENSCAFP00000060847	absent_from_selected_interactome
+65	acipimox	CA9	9615.ENSCAFP00000003055	absent_from_selected_interactome
+115	agomelatine	MTNR1A	9615.ENSCAFP00000046435	absent_from_selected_interactome
+150	almotriptan	HTR1B		missing_string_protein_id
+180	alprostadil	PTGER3		missing_string_protein_id
+190	amantadine	GRIN3B		missing_string_protein_id
+193	ambroxol	GBA1		missing_string_protein_id
+209	amifampridine	KCNA3		missing_string_protein_id
+218	amifampridine	KCNC3		missing_string_protein_id
+231	amifampridine	KCNH6	9615.ENSCAFP00000019133	absent_from_selected_interactome
+255	amiodarone	KCNH6	9615.ENSCAFP00000019133	absent_from_selected_interactome
+259	amisulpride	HTR1B		missing_string_protein_id
+260	amisulpride	HTR1E		missing_string_protein_id
+267	amisulpride	HTR3E		missing_string_protein_id
+285	amoxapine	DRD1		missing_string_protein_id
+288	amoxapine	DRD4		missing_string_protein_id
+310	apomorphine	DRD1		missing_string_protein_id
+313	apomorphine	DRD4		missing_string_protein_id
+332	arformoterol	IGFBP1	9615.ENSCAFP00000018061	absent_from_selected_interactome
+392	azasetron	HTR3E		missing_string_protein_id
+459	benoxaprofen	ALOX12	9615.ENSCAFP00000023467	outside_netmedpy_background_lcc
+487	benzthiazide	CA12	9615.ENSCAFP00000057765	absent_from_selected_interactome
+488	benzthiazide	CA13	9615.ENSCAFP00000045078	outside_netmedpy_background_lcc
+489	benzthiazide	CA14	9615.ENSCAFP00000017307	absent_from_selected_interactome
+490	benzthiazide	CA2		missing_string_protein_id
+492	benzthiazide	CA4	9615.ENSCAFP00000060847	absent_from_selected_interactome
+495	benzthiazide	CA9	9615.ENSCAFP00000003055	absent_from_selected_interactome
+502	beraprost	PTGIR	9615.ENSCAFP00000006358	absent_from_selected_interactome
+505	betahistine	HRH3	9615.ENSCAFP00000018526	absent_from_selected_interactome
+532	bimatoprost	PTGER3		missing_string_protein_id
+591	brinzolamide	CA2		missing_string_protein_id
+626	bumetanide	SLC12A1	9615.ENSCAFP00000062900	absent_from_selected_interactome
+627	bumetanide	SLC12A2	9615.ENSCAFP00000000906	absent_from_selected_interactome
+628	bumetanide	SLC12A4	9615.ENSCAFP00000030152	absent_from_selected_interactome
+640	burosumab	FGF8B		missing_string_protein_id
+729	carfenazine	DRD1		missing_string_protein_id
+806	chlorothiazide	CA2		missing_string_protein_id
+820	chlorpromazine	DRD1		missing_string_protein_id
+831	chlorprothixene	DRD1		missing_string_protein_id
+835	chlorprothixene	HTR1B		missing_string_protein_id
+836	chlorprothixene	HTR1E		missing_string_protein_id
+843	chlorprothixene	HTR3E		missing_string_protein_id
+847	chlortalidone	SLC12A1	9615.ENSCAFP00000062900	absent_from_selected_interactome
+888	cisatracurium	CHRNA10		missing_string_protein_id
+1014	crofelemer	ANO1	9615.ENSCAFP00000046034	absent_from_selected_interactome
+1022	cyclothiazide	CA12	9615.ENSCAFP00000057765	absent_from_selected_interactome
+1023	cyclothiazide	CA13	9615.ENSCAFP00000045078	outside_netmedpy_background_lcc
+1024	cyclothiazide	CA14	9615.ENSCAFP00000017307	absent_from_selected_interactome
+1025	cyclothiazide	CA2		missing_string_protein_id
+1027	cyclothiazide	CA4	9615.ENSCAFP00000060847	absent_from_selected_interactome
+1030	cyclothiazide	CA9	9615.ENSCAFP00000003055	absent_from_selected_interactome
+1110	desflurane	ATP2C1	9615.ENSCAFP00000046019	absent_from_selected_interactome
+1111	desflurane	ATP2C2	9615.ENSCAFP00000056819	absent_from_selected_interactome
+1132	desflurane	KCNK3	9615.ENSCAFP00000015020	outside_netmedpy_background_lcc
+1133	desflurane	KCNK9	9615.ENSCAFP00000001682	outside_netmedpy_background_lcc
+1209	dichlorphenamide	CA12	9615.ENSCAFP00000057765	absent_from_selected_interactome
+1210	dichlorphenamide	CA2		missing_string_protein_id
+1211	dichlorphenamide	CA4	9615.ENSCAFP00000060847	absent_from_selected_interactome
+1240	dihydroergotamine	HTR1B		missing_string_protein_id
+1258	dinoprostone	PTGER3		missing_string_protein_id
+1308	diquafosol	P2RY6	9615.ENSCAFP00000008395	absent_from_selected_interactome
+1339	dopamine	DRD1		missing_string_protein_id
+1342	dopamine	DRD4		missing_string_protein_id
+1346	dorzolamide	CA2		missing_string_protein_id
+1347	dorzolamide	CA4	9615.ENSCAFP00000060847	absent_from_selected_interactome
+1369	doxapram	KCNK3	9615.ENSCAFP00000015020	outside_netmedpy_background_lcc
+1370	doxapram	KCNK9	9615.ENSCAFP00000001682	outside_netmedpy_background_lcc
+1493	efonidipine	CACNG6	9615.ENSCAFP00000052353	absent_from_selected_interactome
+1498	eletriptan	HTR1B		missing_string_protein_id
+1503	elotuzumab	SLAMF7	9615.ENSCAFP00000018574	absent_from_selected_interactome
+1547	enflurane	CACNG6	9615.ENSCAFP00000052353	absent_from_selected_interactome
+1567	enflurane	KCNK3	9615.ENSCAFP00000015020	outside_netmedpy_background_lcc
+1568	enflurane	KCNK9	9615.ENSCAFP00000001682	outside_netmedpy_background_lcc
+1604	epoprostenol	PTGIR	9615.ENSCAFP00000006358	absent_from_selected_interactome
+1624	ergotamine	HTR1B		missing_string_protein_id
+1636	eslicarbazepine acetate	P2RX4	9615.ENSCAFP00000012316	absent_from_selected_interactome
+1704	ethacrynic acid	SLC12A1	9615.ENSCAFP00000062900	absent_from_selected_interactome
+1734	ethoxzolamide	CA12	9615.ENSCAFP00000057765	absent_from_selected_interactome
+1735	ethoxzolamide	CA13	9615.ENSCAFP00000045078	outside_netmedpy_background_lcc
+1736	ethoxzolamide	CA14	9615.ENSCAFP00000017307	absent_from_selected_interactome
+1737	ethoxzolamide	CA2		missing_string_protein_id
+1739	ethoxzolamide	CA4	9615.ENSCAFP00000060847	absent_from_selected_interactome
+1742	ethoxzolamide	CA9	9615.ENSCAFP00000003055	absent_from_selected_interactome
+1801	fampridine	KCNA3		missing_string_protein_id
+1810	fampridine	KCNC3		missing_string_protein_id
+1823	fampridine	KCNH6	9615.ENSCAFP00000019133	absent_from_selected_interactome
+1858	fenoldopam	DRD1		missing_string_protein_id
+1893	flibanserin	DRD4		missing_string_protein_id
+1944	fluocinolone acetonide	ANXA4	9615.ENSCAFP00000060866	absent_from_selected_interactome
+1956	flupentixol	DRD1		missing_string_protein_id
+1959	fluphenazine	DRD1		missing_string_protein_id
+2021	frovatriptan	HTR1B		missing_string_protein_id
+2024	furosemide	SLC12A1	9615.ENSCAFP00000062900	absent_from_selected_interactome
+2106	guanidine	KCNA3		missing_string_protein_id
+2115	guanidine	KCNC3		missing_string_protein_id
+2128	guanidine	KCNH6	9615.ENSCAFP00000019133	absent_from_selected_interactome
+2186	halothane	KCNK3	9615.ENSCAFP00000015020	outside_netmedpy_background_lcc
+2187	halothane	KCNK9	9615.ENSCAFP00000001682	outside_netmedpy_background_lcc
+2206	histamine	HRH3	9615.ENSCAFP00000018526	absent_from_selected_interactome
+2227	hydroflumethiazide	SLC12A1	9615.ENSCAFP00000062900	absent_from_selected_interactome
+2259	iloprost	PTGIR	9615.ENSCAFP00000006358	absent_from_selected_interactome
+2263	imatinib	DDR1	9615.ENSCAFP00000000658	absent_from_selected_interactome
+2328	isoflurane	ATP2C1	9615.ENSCAFP00000046019	absent_from_selected_interactome
+2349	isoflurane	KCNK3	9615.ENSCAFP00000015020	outside_netmedpy_background_lcc
+2350	isoflurane	KCNK9	9615.ENSCAFP00000001682	outside_netmedpy_background_lcc
+2395	ketamine	GRIN3B		missing_string_protein_id
+2444	laropiprant	PTGDR	9615.ENSCAFP00000021663	absent_from_selected_interactome
+2498	levodopa	DRD1		missing_string_protein_id
+2501	levodopa	DRD4		missing_string_protein_id
+2555	lisuride	DRD4		missing_string_protein_id
+2612	lubiprostone	CLCN2	9615.ENSCAFP00000064086	absent_from_selected_interactome
+2623	luspatercept	INHBB	9615.ENSCAFP00000047121	absent_from_selected_interactome
+2671	melatonin	MTNR1A	9615.ENSCAFP00000046435	absent_from_selected_interactome
+2681	memantine	GRIN3B		missing_string_protein_id
+2782	methadone	GRIN3B		missing_string_protein_id
+2816	methazolamide	CA2		missing_string_protein_id
+2817	methazolamide	CA4	9615.ENSCAFP00000060847	absent_from_selected_interactome
+2858	methylergometrine	DRD1		missing_string_protein_id
+2977	misoprostol	PTGER3		missing_string_protein_id
+3015	moxonidine	NISCH	9615.ENSCAFP00000013833	absent_from_selected_interactome
+3065	naratriptan	HTR1B		missing_string_protein_id
+3110	nilotinib	DDR1	9615.ENSCAFP00000000658	absent_from_selected_interactome
+3218	olanzapine	DRD1		missing_string_protein_id
+3221	olanzapine	DRD4		missing_string_protein_id
+3224	olanzapine	HTR1B		missing_string_protein_id
+3225	olanzapine	HTR1E		missing_string_protein_id
+3258	orphenadrine	GRIN3B		missing_string_protein_id
+3352	paliperidone	DRD4		missing_string_protein_id
+3446	pentolonium	CHRNA10		missing_string_protein_id
+3475	pergolide	DRD1		missing_string_protein_id
+3478	pergolide	DRD4		missing_string_protein_id
+3483	perphenazine	DRD1		missing_string_protein_id
+3514	pheniramine	HRH4	9615.ENSCAFP00000039347	absent_from_selected_interactome
+3572	piflufolastat F-18	FOLH1B		missing_string_protein_id
+3584	pimozide	DRD1		missing_string_protein_id
+3587	pimozide	DRD4		missing_string_protein_id
+3608	piretanide	SLC12A1	9615.ENSCAFP00000062900	absent_from_selected_interactome
+3609	piretanide	SLC12A2	9615.ENSCAFP00000000906	absent_from_selected_interactome
+3617	pitolisant	HRH3	9615.ENSCAFP00000018526	absent_from_selected_interactome
+3628	polmacoxib	CA2		missing_string_protein_id
+3646	pramipexole	DRD4		missing_string_protein_id
+3776	promethazine	GRIN3B		missing_string_protein_id
+3880	quinethazone	CA2		missing_string_protein_id
+3881	quinethazone	SLC12A1	9615.ENSCAFP00000062900	absent_from_selected_interactome
+3882	quinethazone	SLC12A2	9615.ENSCAFP00000000906	absent_from_selected_interactome
+3885	quinidine	CYP2D15	9615.ENSCAFP00000065572	absent_from_selected_interactome
+3908	ramelteon	MTNR1A	9615.ENSCAFP00000046435	absent_from_selected_interactome
+3911	ramipril	BDKRB1		missing_string_protein_id
+4030	ritodrine	KCNMB4		missing_string_protein_id
+4039	rizatriptan	HTR1B		missing_string_protein_id
+4082	rotigotine	DRD1		missing_string_protein_id
+4085	rotigotine	DRD4		missing_string_protein_id
+4111	sacituzumab govitecan	TACSTD2		missing_string_protein_id
+4158	selexipag	PTGIR	9615.ENSCAFP00000006358	absent_from_selected_interactome
+4181	sevoflurane	ATP2C1	9615.ENSCAFP00000046019	absent_from_selected_interactome
+4182	sevoflurane	ATP2C2	9615.ENSCAFP00000056819	absent_from_selected_interactome
+4202	sevoflurane	KCNK3	9615.ENSCAFP00000015020	outside_netmedpy_background_lcc
+4203	sevoflurane	KCNK9	9615.ENSCAFP00000001682	outside_netmedpy_background_lcc
+4267	sumatriptan	HTR1B		missing_string_protein_id
+4283	suxamethonium	CHRNA10		missing_string_protein_id
+4333	tamoxifen	SHBG	9615.ENSCAFP00000024547	absent_from_selected_interactome
+4336	tasimelteon	MTNR1A	9615.ENSCAFP00000046435	absent_from_selected_interactome
+4454	thioridazine	DRD1		missing_string_protein_id
+4458	thiothixene	DRD1		missing_string_protein_id
+4525	topiramate	CA2		missing_string_protein_id
+4526	topiramate	CA4	9615.ENSCAFP00000060847	absent_from_selected_interactome
+4560	toremifene	SHBG	9615.ENSCAFP00000024547	absent_from_selected_interactome
+4561	torsemide	SLC12A1	9615.ENSCAFP00000062900	absent_from_selected_interactome
+4562	torsemide	SLC12A2	9615.ENSCAFP00000000906	absent_from_selected_interactome
+4574	tramadol	GRIN3B		missing_string_protein_id
+4611	treprostinil	PTGDR	9615.ENSCAFP00000021663	absent_from_selected_interactome
+4613	treprostinil	PTGIR	9615.ENSCAFP00000006358	absent_from_selected_interactome
+4666	triflupromazine	DRD1		missing_string_protein_id
+4677	trimetaphan	CHRNA10		missing_string_protein_id
+4840	vortioxetine	HTR1B		missing_string_protein_id
+4869	zolmitriptan	HTR1B		missing_string_protein_id
+4902	zuclopenthixol	DRD1		missing_string_protein_id

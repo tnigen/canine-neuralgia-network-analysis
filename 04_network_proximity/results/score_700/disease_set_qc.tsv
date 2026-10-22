@@ -1,0 +1,14 @@
+metric	value
+input_file	canine_neuralgia_union.txt
+raw_lines	3363
+blank_lines_ignored	0
+disease_protein_rows_supplied	3363
+invalid_identifier_rows	0
+unique_valid_disease_proteins	3363
+duplicated_identifiers	0
+duplicate_occurrences_beyond_first	0
+mapped_to_selected_interactome	3154
+absent_from_selected_interactome	209
+outside_netmedpy_background_lcc	19
+final_number_used_in_proximity	3135
+disease_set_definition	complete_GeneCards_union_DEG_input_not_disease_LCC

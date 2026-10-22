@@ -1,0 +1,2 @@
+disease_module_size,mapped_disease_module_size,missing_disease_module_size,interactome_nodes,interactome_edges,observed_lcc_size,null_mean_lcc,null_sd_lcc,z_score,p_value,netmedpy_version,networkx_version,python_version,null_model,n_iterations
+3363,2407,956,8674,49361,1784,1597.1795,50.2409203712,3.71849278675,0,0.2.0.1,3.6.1,3.13.15,log_binning,10000

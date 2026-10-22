@@ -1,0 +1,1547 @@
+drug	total_target_rows_supplied	targets_with_nonempty_string_id	unique_string_ids_after_deduplication	targets_in_selected_interactome	targets_absent_from_selected_interactome	targets_excluded_missing_string_id	targets_excluded_invalid_string_id	duplicate_target_id_rows_excluded	targets_excluded_outside_netmedpy_background_lcc	targets_used_in_proximity	target_coverage_fraction	coverage_flag
+(S)-nicardipine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+(S)-nitrendipine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+abaloparatide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+abarelix	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+abatacept	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+abciximab	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+abemaciclib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+abiraterone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+acalabrutinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+acamprosate	11	10	10	10	0	1	0	0	0	10	0.9090909090909091	adequate
+acarbose	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+aceclofenac	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+acemetacin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+acenocoumarol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+acepromazine	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+aceprometazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+acetazolamide	6	5	5	0	5	1	0	0	0	0	0.0	zero_valid_targets
+acetohexamide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+acetophenazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+acetylcholine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+acetyldigitoxin	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+acetylmethadol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+acetylsalicylic acid	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+acipimox	12	11	11	1	10	1	0	0	0	1	0.08333333333333333	low_target_coverage_below_50_percent
+acitretin	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+aclarubicin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+aclatonium	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+aclidinium bromide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+acotiamide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+acrivastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+adalimumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+adapalene	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+adenosine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+adinazolam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+afatinib	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+aflibercept	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+agomelatine	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+ajmaline	3	3	3	1	2	0	0	0	0	1	0.3333333333333333	low_target_coverage_below_50_percent
+alacepril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+albiglutide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alcaftadine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alclofenac	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+alclometasone dipropionate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+aldesleukin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+alectinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+alefacept	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alemtuzumab	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+alendronic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alfacalcidol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alfentanil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alfuzosin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+alimemazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+aliskiren	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alitretinoin	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+alizapride	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+allopurinol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+almotriptan	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+alogliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alosetron	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+alpelisib	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+alpidem	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+alprazolam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+alprenolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alprostadil	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+alteplase	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+alvimopan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+amantadine	7	6	6	6	0	1	0	0	0	6	0.8571428571428571	adequate
+ambenonium	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ambrisentan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ambroxol	6	5	5	4	1	1	0	0	1	3	0.5	adequate
+amcinonide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+amfetamine	6	6	6	5	1	0	0	0	1	4	0.6666666666666666	adequate
+amifampridine	38	36	36	5	31	2	0	0	0	5	0.13157894736842105	low_target_coverage_below_50_percent
+amiloride	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+aminoglutethimide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+aminosalicylic acid	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+amiodarone	5	5	5	2	3	0	0	0	0	2	0.4	low_target_coverage_below_50_percent
+amisulpride	13	10	10	10	0	3	0	0	2	8	0.6153846153846154	adequate
+amitriptyline	3	3	3	3	0	0	0	0	2	1	0.3333333333333333	low_target_coverage_below_50_percent
+amlexanox	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+amlodipine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+amoxapine	7	5	5	5	0	2	0	0	2	3	0.42857142857142855	low_target_coverage_below_50_percent
+amrinone	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+anagliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+anagrelide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+anakinra	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+anastrozole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+angiotensin II	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+anileridine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+anisindione	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+antazoline	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+apalutamide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+apatinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+apixaban	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+apomorphine	6	4	4	4	0	2	0	0	0	4	0.6666666666666666	adequate
+apraclonidine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+apremilast	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+aprepitant	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+aprindine	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+aprotinin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+aranidipine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+arformoterol	11	11	11	9	2	0	0	0	0	9	0.8181818181818182	adequate
+argatroban	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+aripiprazole	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+aripiprazole lauroxil	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+armodafinil	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+arsenic trioxide	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+articaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+asenapine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+astemizole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+atezolizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+atomoxetine	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+atorvastatin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+atosiban	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+atracurium	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+atropine	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+avanafil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+avapritinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+avatrombopag	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+avelumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+avobenzone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+axitinib	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+azacitidine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+azasetron	3	2	2	2	0	1	0	0	2	0	0.0	zero_valid_targets
+azatadine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+azelastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+azelnidipine	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+azilsartan medoxomil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+baclofen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+balsalazide	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+bamipine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+baricitinib	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+barnidipine	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+basiliximab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bazedoxifene	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+becaplermin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+beclometasone dipropionate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+belantamab mafodotin	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+belatacept	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+belimumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+belinostat	11	11	11	6	5	0	0	0	2	4	0.36363636363636365	low_target_coverage_below_50_percent
+belotecan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bempedoic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+benazepril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bendroflumethiazide	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+benidipine	11	11	11	11	0	0	0	0	0	11	1.0	adequate
+benoxaprofen	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+benralizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+benzatropine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+benzbromarone	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+benzocaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+benzphetamine	4	4	4	4	0	0	0	0	1	3	0.75	adequate
+benzquinamide	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+benzthiazide	11	10	10	0	10	1	0	0	0	0	0.0	zero_valid_targets
+bepotastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bepridil	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+beraprost	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+berotralstat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+betahistine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+betamethasone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+betamethasone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+betamethasone benzoate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+betamethasone dipropionate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+betamethasone phosphate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+betamethasone valerate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+betanidine	5	5	5	5	0	0	0	0	1	4	0.8	adequate
+betazole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bethanechol	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+betrixaban	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bevacizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bexarotene	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+bezafibrate	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+bicalutamide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bilastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bimatoprost	2	1	1	0	1	1	0	0	0	0	0.0	zero_valid_targets
+binimetinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+biperiden	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bismuth subsalicylate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+bisulepine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bitolterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bivalirudin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+blinatumomab	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+blonanserin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+bopindolol	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+bortezomib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+bosentan	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+bosutinib	11	11	11	11	0	0	0	0	0	11	1.0	adequate
+botulinum toxin type A	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bremelanotide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+brentuximab vedotin	8	8	8	6	2	0	0	0	0	6	0.75	adequate
+bretylium	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+brexpiprazole	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+brigatinib	9	9	9	9	0	0	0	0	0	9	1.0	adequate
+brimonidine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+brinzolamide	1	0	0	0	0	1	0	0	0	0	0.0	zero_valid_targets
+brivaracetam	14	14	14	11	3	0	0	0	4	7	0.5	adequate
+brodalumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+brolucizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bromazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bromfenac	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+bromocriptine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+bromperidol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+brompheniramine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+buclizine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+budesonide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+bufylline	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+bulevirtide	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+bumetanide	4	4	4	0	4	0	0	0	0	0	0.0	zero_valid_targets
+bunazosin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+bupivacaine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+bupranolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+buprenorphine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+bupropion	2	2	2	1	1	0	0	0	1	0	0.0	zero_valid_targets
+burosumab	1	0	0	0	0	1	0	0	0	0	0.0	zero_valid_targets
+buserelin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+buspirone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+butalbital	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+butorphanol	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+cabazitaxel	7	7	7	6	1	0	0	0	0	6	0.8571428571428571	adequate
+cabergoline	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cabozantinib	13	13	13	11	2	0	0	0	0	11	0.8461538461538461	adequate
+caffeine	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+calcifediol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+calcipotriene	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+calcitonin (salmon synthetic)	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+calcitonin human	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+calcitriol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+canakinumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+candesartan cilexetil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cangrelor	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cannabidiol	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+canrenone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+capecitabine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+caplacizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+capmatinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+capsaicin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+captopril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+carbachol	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+carbamazepine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+carbenoxolone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+carbetocin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+carbidopa	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+carbimazole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+carbinoxamine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+carboprost	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+carbutamide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+carfenazine	5	4	4	4	0	1	0	0	0	4	0.8	adequate
+carfilzomib	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+carglumic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cariprazine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+carmustine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+carprofen	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+carteolol	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+carvedilol	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+casimersen	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+casopitant	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+celecoxib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+celiprolol	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+cemiplimab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cenegermin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+cepharanthine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+ceritinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cerivastatin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+certolizumab pegol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ceruletide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cetilistat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cetirizine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cetrorelix	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cetuximab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cevimeline	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+chenodiol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+chidamide	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+chlordiazepoxide	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+chloroprocaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+chlorothiazide	3	2	2	0	2	1	0	0	0	0	0.0	zero_valid_targets
+chlorotrianisene	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+chlorphenamine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+chlorphentermine	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+chlorpromazine	17	16	16	15	1	1	0	0	0	15	0.8823529411764706	adequate
+chlorpropamide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+chlorprothixene	15	11	11	11	0	4	0	0	2	9	0.6	adequate
+chlortalidone	3	3	3	0	3	0	0	0	0	0	0.0	zero_valid_targets
+chlorzoxazone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+choline fenofibrate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+choline theophyllinate	9	9	9	9	0	0	0	0	0	9	1.0	adequate
+choriogonadotropin alfa	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ciclesonide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ciclosporin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+cilastatin	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+cilazapril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cilnidipine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+cilostazol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cimetidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cinacalcet	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cinalukast	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+cinchocaine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+ciprofibrate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ciramadol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cisapride	3	3	3	3	0	0	0	0	1	2	0.6666666666666666	adequate
+cisatracurium	13	12	12	12	0	1	0	0	0	12	0.9230769230769231	adequate
+citalopram	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+clemastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+clevidipine	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+clidinium	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+clobazam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+clobetasol propionate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+clobetasone butyrate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+clocortolone pivalate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+clofarabine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+clofibrate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+clomifene	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+clomipramine	5	5	5	5	0	0	0	0	2	3	0.6	adequate
+clonazepam	8	8	8	8	0	0	0	0	1	7	0.875	adequate
+clonidine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+clopidogrel	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+clorazepate	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+clozapine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+cobimetinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+cocaine	16	16	16	12	4	0	0	0	5	7	0.4375	low_target_coverage_below_50_percent
+codeine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+colecalciferol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+conivaptan	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+conjugated estrogens	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+copanlisib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+copper dotatate Cu-64	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+corbadrine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+corifollitropin alfa	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+corticorelin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+corticotropin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cortisone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cortivazol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+crisaborole	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+crizanlizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+crizotinib	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+crofelemer	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+cyclizine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cyclobenzaprine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+cyclopentolate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+cyclothiazide	12	11	11	1	10	1	0	0	0	1	0.08333333333333333	low_target_coverage_below_50_percent
+cycrimine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cyproheptadine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+cyproterone acetate	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+cytarabine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+dabigatran etexilate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dabrafenib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+daclizumab	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+dacomitinib	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+danazol	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+dantrolene	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+dapiprazole	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+dapoxetine	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+daprodustat	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+daratumumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+darbepoetin alfa	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+darifenacin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+darolutamide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+dasatinib	9	9	9	8	1	0	0	0	0	8	0.8888888888888888	adequate
+daunorubicin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+decamethonium	6	6	6	5	1	0	0	0	0	5	0.8333333333333334	adequate
+decitabine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+degarelix	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+delapril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+delgocitinib	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+demecarium	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+denileukin diftitox	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+denosumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+deserpidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+desflurane	30	30	30	26	4	0	0	0	3	23	0.7666666666666667	adequate
+desipramine	3	3	3	3	0	0	0	0	2	1	0.3333333333333333	low_target_coverage_below_50_percent
+desirudin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+deslanoside	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+desloratadine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+desmopressin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+desogestrel	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+desonide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+desoximetasone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+desoxycorticosterone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+desoxycorticosterone pivalate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+desoxycortone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+desvenlafaxine	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+deutetrabenazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dexamethasone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dexamethasone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dexamethasone phosphate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dexamfetamine	3	3	3	2	1	0	0	0	1	1	0.3333333333333333	low_target_coverage_below_50_percent
+dexbrompheniramine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dexchlorpheniramine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dexetimide	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+dexketoprofen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+dexlansoprazole	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+dexmedetomidine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+dexmethylphenidate	2	2	2	1	1	0	0	0	1	0	0.0	zero_valid_targets
+dexniguldipine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dexrabeprazole	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+dextropropoxyphene	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+dextrothyroxine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+dezocine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+diazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+diazoxide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+dichlorphenamide	4	3	3	0	3	1	0	0	0	0	0.0	zero_valid_targets
+diclofenac	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+dicoumarol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dicycloverine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+dienestrol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dienogest	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+diethylpropion	2	2	2	1	1	0	0	0	1	0	0.0	zero_valid_targets
+diethylstilbestrol	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+difenoxin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+diflorasone diacetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+diflunisal	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+difluprednate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+digitoxin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+digoxin	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+dihydrocodeine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dihydroergotamine	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+diltiazem	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+dimenhydrinate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dimethyl fumarate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dimethyltubocurarinium	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+dinoprost	2	2	2	0	2	0	0	0	0	0	0.0	zero_valid_targets
+dinoprostone	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+diphemanil	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+diphenhydramine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+diphenidol	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+diphenoxylate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+diphenylpyraline	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dipivefrine	6	6	6	5	1	0	0	0	0	5	0.8333333333333334	adequate
+diprophylline	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+dipyridamole	24	24	24	24	0	0	0	0	1	23	0.9583333333333334	adequate
+diquafosol	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+disopyramide	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+distigmine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+disulfiram	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dobutamine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+docetaxel	7	7	7	6	1	0	0	0	0	6	0.8571428571428571	adequate
+dofetilide	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+dolasetron	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+domperidone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+donepezil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dopamine	7	5	5	4	1	2	0	0	0	4	0.5714285714285714	adequate
+dorzolamide	3	2	2	0	2	1	0	0	0	0	0.0	zero_valid_targets
+dostarlimab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dosulepin	15	15	15	15	0	0	0	0	2	13	0.8666666666666667	adequate
+dotinurad	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+doxacurium	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+doxapram	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+doxazosin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+doxepin	4	4	4	4	0	0	0	0	2	2	0.5	adequate
+doxercalciferol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+doxorubicin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+doxylamine	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+dronabinol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dronedarone	35	35	35	29	6	0	0	0	6	23	0.6571428571428571	adequate
+droperidol	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+drospirenone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+drostanolone propionate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+droxidopa	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+dulaglutide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+duloxetine	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+dupilumab	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+durvalumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+dutasteride	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+duvelisib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+dyclonine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+dydrogesterone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ebastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ebrotidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ecallantide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+echothiophate	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+eculizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+edoxaban	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+edrophonium	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+efalizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+eflornithine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+efonidipine	24	24	24	23	1	0	0	0	0	23	0.9583333333333334	adequate
+elagolix	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+eldecalcitol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+eletriptan	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+elexacaftor	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+eliglustat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+elobixibat	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+elotuzumab	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+eltrombopag	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+eluxadoline	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+emapalumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+emedastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+enalapril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+enalaprilat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+enarodustat	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+enasidenib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+encorafenib	10	10	10	9	1	0	0	0	0	9	0.9	adequate
+enflurane	43	43	43	41	2	0	0	0	3	38	0.8837209302325582	adequate
+enfortumab vedotin	8	8	8	7	1	0	0	0	0	7	0.875	adequate
+enoxaparin sodium	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+entacapone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+entrectinib	5	5	5	4	1	0	0	0	0	4	0.8	adequate
+enzalutamide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ephedrine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+epinastine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+epinephrine	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+eplerenone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+epoetin alfa	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+epoetin beta	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+epoetin theta	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+epoetin zeta	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+epoprostenol	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+eprosartan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+eptifibatide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+eptinezumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+erdafitinib	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+erenumab	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ergocalciferol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ergotamine	8	7	7	7	0	1	0	0	0	7	0.875	adequate
+eribulin	7	7	7	6	1	0	0	0	0	6	0.8571428571428571	adequate
+erlotinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+escitalopram	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+eslicarbazepine acetate	11	11	11	7	4	0	0	0	3	4	0.36363636363636365	low_target_coverage_below_50_percent
+esmolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+esomeprazole	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+estazolam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+estetrol	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+estradiol	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+estradiol acetate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+estradiol cypionate	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+estradiol valerate	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+estramustine phosphate	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+estriol	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+estrone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+estrone sulphate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+eszopiclone	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+etanercept	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+etelcalcetide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+eteplirsen	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ethacrynic acid	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+ethchlorvynol	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+ethinylestradiol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ethosuximide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+ethotoin	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+ethoxzolamide	10	9	9	0	9	1	0	0	0	0	0.0	zero_valid_targets
+ethylestrenol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+etidocaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+etilefrine	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+etodolac	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+etomidate	15	15	15	15	0	0	0	0	1	14	0.9333333333333333	adequate
+etonogestrel	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+etoposide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+etoposide phosphate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+etoricoxib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+etretinate	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+etynodiol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+everolimus	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+evinacumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+evocalcet	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+evogliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+exemestane	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+exenatide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ezetimibe	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+fadrozole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+famotidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fampridine	38	36	36	5	31	2	0	0	0	5	0.13157894736842105	low_target_coverage_below_50_percent
+fasudil	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+febuxostat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fedratinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+felbamate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+felbinac	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+felodipine	9	9	9	9	0	0	0	0	0	9	1.0	adequate
+felypressin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fenbufen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+fenofibrate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fenoldopam	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+fenoprofen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+fenoterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fentanyl	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+fesoterodine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+fexofenadine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+filgotinib	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+filgrastim	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fimasartan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+finasteride	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+fingolimod	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+flavoxate	10	10	10	10	0	0	0	0	0	10	1.0	adequate
+flecainide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+flibanserin	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+floctafenine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+flopropione	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+flortaucipir F 18	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+floxuridine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fludarabine phosphate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fludrocortisone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fludroxycortide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+flufenamic acid	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+flumazenil	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+flumetasone pivalate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+flunarizine	5	5	5	4	1	0	0	0	0	4	0.8	adequate
+flunisolide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+flunitrazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+fluocinolone acetonide	5	5	5	2	3	0	0	0	1	1	0.2	low_target_coverage_below_50_percent
+fluocinonide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluoroestradiol F 18	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluorometholone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluorometholone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluorouracil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluostigmine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluoxetine	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+fluoxymesterone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+flupentixol	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+fluphenazine	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+fluphenazine decanoate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluphenazine enanthate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluprednisolone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+flurazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+flurbiprofen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+flutamide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluticasone furoate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluticasone propionate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluvastatin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fluvoxamine	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+follitropin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fomepizole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fondaparinux	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+formoterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+forodesine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fosaprepitant	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+fosdenopterin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fosfestrol	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+fosinopril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fosnetupitant	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+fosphenytoin	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+fospropofol	12	12	12	12	0	0	0	0	1	11	0.9166666666666666	adequate
+fostamatinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+fremanezumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+frovatriptan	1	0	0	0	0	1	0	0	0	0	0.0	zero_valid_targets
+fulvestrant	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+furosemide	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+gabapentin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+gabapentin enacarbil	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+galantamine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+galcanezumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+gallamine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+gallium (68Ga) edotreotide	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+ganirelix	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+gefitinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+gemcitabine	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+gemfibrozil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+gemigliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+gilteritinib	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+gimeracil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+givosiran	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+glasdegib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+glibenclamide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+glibornuride	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+gliclazide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+glimepiride	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+glipizide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+gliquidone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+glisoxepide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+glutethimide	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+glyceryl trinitrate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+glycopyrronium bromide	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+golimumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+golodirsen	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+gonadorelin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+goserelin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+granisetron	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+guanabenz	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+guanadrel	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+guanethidine	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+guanfacine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+guanidine	38	36	36	5	31	2	0	0	0	5	0.13157894736842105	low_target_coverage_below_50_percent
+guselkumab	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+halazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+halcinonide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+haloperidol	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+haloperidol decanoate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+halopredone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+halothane	24	24	24	23	1	0	0	0	3	20	0.8333333333333334	adequate
+heparin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+hexafluronium	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+hexocyclium	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+hexylcaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+histamine	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+histrelin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+hydralazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+hydrochlorothiazide	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+hydrocodone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+hydrocortamate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+hydrocortisone	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+hydrocortisone acetate	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+hydrocortisone butyrate	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+hydrocortisone cypionate	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+hydrocortisone probutate	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+hydrocortisone succinate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+hydrocortisone valerate	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+hydroflumethiazide	2	2	2	0	2	0	0	0	0	0	0.0	zero_valid_targets
+hydromorphone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+hydroxycarbamide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+hydroxychloroquine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+hydroxyprogesterone caproate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+hydroxyzine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+hyoscyamine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+ibalizumab	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ibandronic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ibritumomab tiuxetan	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+ibrutinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ibuprofen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+icatibant	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+icosapent ethyl	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+icotinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+idarubicin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+idelalisib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ilaprazole	3	3	3	3	0	0	0	0	2	1	0.3333333333333333	low_target_coverage_below_50_percent
+iloperidone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+iloprost	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+imatinib	9	9	9	7	2	0	0	0	0	7	0.7777777777777778	adequate
+imidafenacin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+imidapril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+imipramine	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+imiquimod	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+imrecoxib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+incadronic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+indacaterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+indapamide	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+indecainide	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+indisetron	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+indomethacin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+inebilizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+infigratinib	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+infliximab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ingenol mebutate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+inotersen	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+inotuzumab ozogamicin	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+inqovi	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+insulin aspart	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+insulin degludec	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+insulin detemir	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+insulin glargine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+insulin glulisine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+insulin human	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+insulin lispro	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+interferon beta-1a	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+interferon beta-1b	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ipilimumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ipratropium	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+iproniazid	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+irbesartan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+irinotecan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+isatuximab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+isocarboxazid	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+isoetarine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+isoflurane	23	23	23	20	3	0	0	0	3	17	0.7391304347826086	adequate
+isoprenaline	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+isopropamide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+isosorbide dinitrate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+isosorbide mononitrate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+isotretinoin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+isradipine	10	10	10	10	0	0	0	0	0	10	1.0	adequate
+istradefylline	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ivabradine	4	4	4	3	1	0	0	0	3	0	0.0	zero_valid_targets
+ivacaftor	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ivosidenib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ixabepilone	7	7	7	6	1	0	0	0	0	6	0.8571428571428571	adequate
+ixazomib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ketamine	13	12	12	11	1	1	0	0	1	10	0.7692307692307693	adequate
+ketoconazole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ketoprofen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ketorolac	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ketotifen	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+labetalol	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+lacidipine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+lacosamide	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+lamotrigine	11	11	11	8	3	0	0	0	3	5	0.45454545454545453	low_target_coverage_below_50_percent
+lanadelumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lanreotide	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+lansoprazole	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+lapatinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+laropiprant	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+larotrectinib	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+lasmiditan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lasofoxifene	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+latanoprost	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+latanoprostene bunod	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+leflunomide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lemborexant	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+lenalidomide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+lenograstim	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lenvatinib	10	10	10	10	0	0	0	0	0	10	1.0	adequate
+lepirudin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lercanidipine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+lesinurad	2	2	2	1	1	0	0	0	1	0	0.0	zero_valid_targets
+letrozole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+leuprorelin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+levallorphan	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+levamlodipine	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+levetiracetam	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+levobunolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+levobupivacaine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+levocabastine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+levocetirizine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+levodopa	5	3	3	3	0	2	0	0	0	3	0.6	adequate
+levomenthol	11	11	11	11	0	0	0	0	0	11	1.0	adequate
+levomethadyl acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+levomilnacipran	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+levonorgestrel	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+levorphanol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+levosalbutamol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+levosimendan	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+levothyroxine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+lidocaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+lifitegrast	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+limaprost	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+linaclotide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+linagliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+liothyronine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+lipegfilgrastim	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+liraglutide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lisdexamfetamine	3	3	3	2	1	0	0	0	1	1	0.3333333333333333	low_target_coverage_below_50_percent
+lisinopril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lisuride	6	5	5	5	0	1	0	0	0	5	0.8333333333333334	adequate
+lithium carbonate	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+lithium citrate	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+lixisenatide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lobeglitazone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lofepramine	3	3	3	3	0	0	0	0	2	1	0.3333333333333333	low_target_coverage_below_50_percent
+lofexidine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+lomitapide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lonafarnib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+loncastuximab tesirine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+loperamide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+loratadine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lorazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+lorcaserin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lorlatinib	10	10	10	8	2	0	0	0	0	8	0.8	adequate
+losartan	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+loteprednol etabonate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lovastatin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+loxapine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+loxoprofen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+lubiprostone	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+lumacaftor	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lumasiran	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lumateperone	3	3	3	3	0	0	0	0	1	2	0.6666666666666666	adequate
+lumiracoxib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+lurasidone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+luspatercept	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+lusutrombopag	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lutetium (177Lu) oxodotreotide	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+lutropin alfa	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+lypressin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+macimorelin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+macitentan	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+manidipine	11	11	11	11	0	0	0	0	0	11	1.0	adequate
+maprotiline	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+maraviroc	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+margetuximab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mazindol	3	3	3	2	1	0	0	0	2	0	0.0	zero_valid_targets
+mebanazine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+mebhydrolin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mecamylamine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+mecasermin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+meclofenamic acid	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+meclozine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+medroxyprogesterone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+medrysone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mefenamic acid	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+megestrol acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+melatonin	3	3	3	1	2	0	0	0	0	1	0.3333333333333333	low_target_coverage_below_50_percent
+meloxicam	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+memantine	6	5	5	5	0	1	0	0	0	5	0.8333333333333334	adequate
+mepenzolate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+mephentermine	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+mephenytoin	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+mepivacaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+mepolizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+meprednisone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+meprobamate	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+meptazinol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mepyramine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mequinol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mercaptopurine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mesalazine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+mesoridazine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+mestanolone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mestranol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+metamizole	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+metaraminol	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+metformin	31	31	31	31	0	0	0	0	0	31	1.0	adequate
+methacholine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+methadone	8	7	7	7	0	1	0	0	0	7	0.875	adequate
+methamphetamine	10	10	10	9	1	0	0	0	2	7	0.7	adequate
+methanthelinium	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+metharbital	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+methazolamide	3	2	2	0	2	1	0	0	0	0	0.0	zero_valid_targets
+methdilazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+methocarbamol	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+methohexital	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+methotrexate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+methoxamine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+methoxy polyethylene glycol-epoetin beta	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+methoxyflurane	17	17	17	16	1	0	0	0	1	15	0.8823529411764706	adequate
+methscopolamine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+methsuximide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+methylclothiazide	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+methyldopa	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+methyldopate	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+methylergometrine	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+methylnaltrexone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+methylphenidate	2	2	2	1	1	0	0	0	1	0	0.0	zero_valid_targets
+methylprednisolone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+methylprednisolone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+methylprednisolone succinate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+methyltestosterone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+methyprylon	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+methysergide	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+metipranolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+metirosine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+metixene	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+metoclopramide	4	4	4	4	0	0	0	0	1	3	0.75	adequate
+metolazone	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+metreleptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mexiletine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+mianserin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+mibefradil	10	10	10	10	0	0	0	0	0	10	1.0	adequate
+midazolam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+midodrine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+midostaurin	13	13	13	13	0	0	0	0	0	13	1.0	adequate
+mifamurtide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+mifepristone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+migalastat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+miglitol	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+miglustat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+milnacipran	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+milrinone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+minoxidil	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+mirabegron	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mirodenafil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mirtazapine	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+misoprostol	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+mitiglinide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+mitotane	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+mitoxantrone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mivacurium	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+mizolastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+moclobemide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+modafinil	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+moexipril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+mogamulizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+molindone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+mometasone furoate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+monobenzone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+montelukast	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+moracizine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+morphine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+mosapride	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+moxastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+moxetumomab pasudotox	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+moxonidine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+mozavaptan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+muromonab-CD3	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+mycophenolate mofetil	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+mycophenolic acid	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+nabilone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nabumetone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+nadolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nafamostat	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+nafarelin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+naftopidil	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+nalbuphine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+naldemedine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+nalfurafine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nalmefene	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+naloxegol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+naloxone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+naltrexone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+nandrolone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nandrolone decanoate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+nandrolone phenpropionate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+naphazoline	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+naproxen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+naratriptan	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+natalizumab	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+nateglinide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+nebivolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+necitumumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nefazodone	4	4	4	4	0	0	0	0	2	2	0.5	adequate
+neostigmine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nepafenac	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+neratinib	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+nesiritide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+netarsudil	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+netupitant	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+nicardipine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+nicotine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+nicotinic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nifedipine	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+nilotinib	7	7	7	5	2	0	0	0	0	5	0.7142857142857143	adequate
+nilutamide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nilvadipine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+nimodipine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+nintedanib	9	9	9	9	0	0	0	0	0	9	1.0	adequate
+niperotidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+niraparib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+nisoldipine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+nitisinone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nitrazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+nitrendipine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+nitric oxide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+nitroprusside	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+nivolumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nizatidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+nomifensine	2	2	2	1	1	0	0	0	1	0	0.0	zero_valid_targets
+norelgestromin	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+norepinephrine	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+norethindrone acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+norethisterone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+norethynodrel	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+norgestimate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+nortriptyline	3	3	3	3	0	0	0	0	2	1	0.3333333333333333	low_target_coverage_below_50_percent
+obeticholic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+obinutuzumab	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+ocrelizumab	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+octatropine methylbromide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+octreotide	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+ofatumumab	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+olanzapine	18	14	14	14	0	4	0	0	1	13	0.7222222222222222	adequate
+olaparib	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+olaratumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+oliceridine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+olmesartan medoxomil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+olmutinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+olodaterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+olopatadine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+olprinone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+olsalazine	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+omarigliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+omeprazole	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+omidenepag isopropyl	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ondansetron	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+opicapone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+oprelvekin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+orciprenaline	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+orlistat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+orphenadrine	15	14	14	11	3	1	0	0	4	7	0.4666666666666667	low_target_coverage_below_50_percent
+osimertinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ospemifene	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+oteracil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+oxandrolone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+oxaprozin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+oxatomide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+oxazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+oxcarbazepine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+oxprenolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+oxybuprocaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+oxybutynin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+oxycodone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+oxymetazoline	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+oxymetholone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+oxymorphone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+oxyphenbutazone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+oxyphencyclimine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+oxyphenonium	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+oxytocin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ozanimod	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+paclitaxel	8	8	8	7	1	0	0	0	0	7	0.875	adequate
+palbociclib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+palifermin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+paliperidone	5	4	4	4	0	1	0	0	0	4	0.8	adequate
+paliperidone palmitate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+palonosetron	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+pamidronic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pancuronium	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+panitumumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+panobinostat	11	11	11	6	5	0	0	0	2	4	0.36363636363636365	low_target_coverage_below_50_percent
+pantoprazole	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+paracetamol	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+paramethadione	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+parathyroid hormone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+parecoxib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pargyline	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+paricalcitol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+paroxetine	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+pasireotide	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+patisiran	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+pazopanib	11	11	11	11	0	0	0	0	0	11	1.0	adequate
+pegaptanib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pegcetacoplan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pegfilgrastim	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+peginesatide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+peginterferon alfa-2a	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+peginterferon alfa-2b	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+peginterferon beta-1a	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pegvisomant	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pemafibrate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pembrolizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pemetrexed	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pemigatinib	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+penbutolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pentazocine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+pentobarbital	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+pentolonium	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+pentostatin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pentoxifylline	21	21	21	21	0	0	0	0	0	21	1.0	adequate
+perampanel	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+pergolide	5	3	3	3	0	2	0	0	0	3	0.6	adequate
+perindopril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+perospirone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+perphenazine	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+pertuzumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pethidine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pexidartinib	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+phenazone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+phenazopyridine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+phendimetrazine	3	3	3	2	1	0	0	0	1	1	0.3333333333333333	low_target_coverage_below_50_percent
+phenelzine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+phenibut	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+phenindione	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pheniprazine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pheniramine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+phenmetrazine	2	2	2	1	1	0	0	0	1	0	0.0	zero_valid_targets
+phenoxybenzamine	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+phenprocoumon	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+phensuximide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+phentermine	6	6	6	5	1	0	0	0	2	3	0.5	adequate
+phentolamine	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+phenylbutazone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+phenylephrine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+phenylpropanolamine	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+phenyltoloxamine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+phenytoin	21	21	21	17	4	0	0	0	3	14	0.6666666666666666	adequate
+physostigmine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+piflufolastat F-18	1	0	0	0	0	1	0	0	0	0	0.0	zero_valid_targets
+piketoprofen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pilocarpine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+pilsicainide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pimavanserin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pimecrolimus	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pimobendan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pimozide	7	5	5	4	1	2	0	0	0	4	0.5714285714285714	adequate
+pinacidil	8	8	8	8	0	0	0	0	2	6	0.75	adequate
+pindolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pioglitazone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pipecuronium	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+pipotiazine palmitate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pirbuterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pirenzepine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+piretanide	2	2	2	0	2	0	0	0	0	0	0.0	zero_valid_targets
+piribedil	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pirlindole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+piroxicam	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pitavastatin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+pitolisant	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+plecanatide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+polatuzumab vedotin	8	8	8	7	1	0	0	0	0	7	0.875	adequate
+polmacoxib	3	2	2	1	1	1	0	0	0	1	0.3333333333333333	low_target_coverage_below_50_percent
+polyestradiol phosphate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+polythiazide	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+pomalidomide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+ponatinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ponesimod	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+prabotulinumtoxinA	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pralatrexate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pralidoxime	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+pralmorelin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pralsetinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pramipexole	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+pramlintide	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+pranlukast	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+prasugrel	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pravastatin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+prazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+prazosin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+prednicarbate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+prednisolone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+prednisolone acetate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+prednisolone sodium phosphate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+prednisolone tebutate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+prednisone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pregabalin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+prilocaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+primidone	24	24	24	21	3	0	0	0	4	17	0.7083333333333334	adequate
+probenecid	3	3	3	0	3	0	0	0	0	0	0.0	zero_valid_targets
+probucol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+procainamide	11	11	11	7	4	0	0	0	3	4	0.36363636363636365	low_target_coverage_below_50_percent
+procaine	13	13	13	9	4	0	0	0	4	5	0.38461538461538464	low_target_coverage_below_50_percent
+procaterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+prochlorperazine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+procyclidine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+profenamine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+progesterone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+proglumide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+promazine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+promethazine	32	31	31	27	4	1	0	0	3	24	0.75	adequate
+propafenone	12	12	12	8	4	0	0	0	3	5	0.4166666666666667	low_target_coverage_below_50_percent
+propantheline	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+proparacaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+propiomazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+propiram	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+propofol	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+propoxycaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+propranolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+propylthiouracil	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+propyphenazone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+protirelin	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+protokylol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+protriptyline	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+prucalopride	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+pseudoephedrine	5	5	5	4	1	0	0	0	2	2	0.4	low_target_coverage_below_50_percent
+pyridostigmine	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+quazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+quetiapine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+quinapril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+quinestrol	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+quinethazone	5	4	4	0	4	1	0	0	0	0	0.0	zero_valid_targets
+quingestanol acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+quinidine	11	11	11	7	4	0	0	0	3	4	0.36363636363636365	low_target_coverage_below_50_percent
+quizartinib	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+rabeprazole	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+racecadotril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+radotinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+raloxifene	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ramatroban	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+ramelteon	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+ramipril	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+ramosetron	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+ramucirumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ranibizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ranitidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ranolazine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+rapacuronium	6	6	6	5	1	0	0	0	0	5	0.8333333333333334	adequate
+rasagiline	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ravulizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+regadenoson	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+regorafenib	18	18	18	17	1	0	0	0	0	17	0.9444444444444444	adequate
+relugolix	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+remifentanil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+remikiren	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+remimazolam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+remoxipride	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+repaglinide	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+reproterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+rescinnamine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+reserpine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+reslizumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+retigabine	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+revaprazan	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+revefenacin	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+ribavirin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ribociclib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ridaforolimus	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+rilonacept	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+riluzole	11	11	11	8	3	0	0	0	4	4	0.36363636363636365	low_target_coverage_below_50_percent
+rimegepant	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+rimexolone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+riociguat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+rioprostil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ripasudil	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ripretinib	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+risankizumab	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+risedronic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+risperidone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+ritodrine	18	17	17	17	0	1	0	0	2	15	0.8333333333333334	adequate
+rituximab	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+rivaroxaban	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+rivastigmine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+rizatriptan	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+rocuronium	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+rofecoxib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+roflumilast	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+rolapitant	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+romidepsin	11	11	11	6	5	0	0	0	2	4	0.36363636363636365	low_target_coverage_below_50_percent
+romiplostim	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+romosozumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ropeginterferon alfa-2b	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ropinirole	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ropivacaine	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+rosiglitazone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+rosuvastatin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+rotigotine	5	3	3	3	0	2	0	0	0	3	0.6	adequate
+roxadustat	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+roxatidine acetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+rucaparib	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+rufinamide	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+rupatadine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+ruxolitinib	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+sacituzumab govitecan	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+sacubitril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+safinamide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+salbutamol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+salmeterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sapropterin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+saralasin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sargramostim	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sarilumab	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+saroglitazar	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+satralizumab	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+saxagliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+scopolamine	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+secbutabarbital	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+secobarbital	8	8	8	8	0	0	0	0	1	7	0.875	adequate
+secretin human	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+selegiline	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+selexipag	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+selinexor	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+selpercatinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+selumetinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+semaglutide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+seractide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sermorelin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sertindole	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+sertraline	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+setastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+setmelanotide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sevoflurane	29	29	29	26	3	0	0	0	4	22	0.7586206896551724	adequate
+sibutramine	3	3	3	2	1	0	0	0	2	0	0.0	zero_valid_targets
+sildenafil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+silodosin	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+siltuximab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+simvastatin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+siponimod	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+sirolimus	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sitagliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sitaxentan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sivelestat	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+sodium oxybate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+sofpironium bromide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+solifenacin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+somapacitan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+somatostatin	4	4	4	3	1	0	0	0	0	3	0.75	adequate
+somatrem	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+somatropin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+sonidegib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sorafenib	10	10	10	10	0	0	0	0	0	10	1.0	adequate
+sotagliflozin	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+sotalol	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+sotorasib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+spiperone	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+spirapril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+spironolactone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+stanozolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sucralfate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sufentanil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sulfasalazine	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+sulfinpyrazone	3	3	3	3	0	0	0	0	3	0	0.0	zero_valid_targets
+sulindac	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+sulpiride	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+sumatriptan	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+sunitinib	9	9	9	9	0	0	0	0	0	9	1.0	adequate
+suprofen	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+suvorexant	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+suxamethonium	15	14	14	13	1	1	0	0	0	13	0.8666666666666667	adequate
+tacrine	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+tadalafil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tafamidis	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+tafasitamab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tafluprost	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+tagraxofusp	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+talastine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+talazoparib tosylate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+talbutal	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+taltirelin	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+tamoxifen	11	11	11	10	1	0	0	0	0	10	0.9090909090909091	adequate
+tapentadol	2	2	2	2	0	0	0	0	1	1	0.5	adequate
+tasimelteon	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+tasosartan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tazarotene	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+tazemetostat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+teduglutide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tegaserod	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+telmisartan	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+telotristat ethyl	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+temazepam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+temocapril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+temsirolimus	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tenapanor	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+teneligliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+teniposide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+tepotinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+teprotumumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+terazosin	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+terbutaline	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+terfenadine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+terguride	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+teriparatide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tesamorelin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+testolactone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+testosterone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+testosterone cypionate	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+testosterone enantate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+testosterone propionate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+testosterone undecanoate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tetrabenazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tetracaine	12	12	12	9	3	0	0	0	3	6	0.5	adequate
+tetracosactide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tetryzoline	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+tezacaftor	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+thalidomide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+theophylline	12	12	12	12	0	0	0	0	1	11	0.9166666666666666	adequate
+thiamazole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+thiamylal	16	16	16	16	0	0	0	0	1	15	0.9375	adequate
+thiethylperazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+thioguanine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+thiopental	8	8	8	8	0	0	0	0	1	7	0.875	adequate
+thioridazine	6	5	5	5	0	1	0	0	0	5	0.8333333333333334	adequate
+thiothixene	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+thyrotropin alfa	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tiagabine	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+tiaprofenic acid	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ticagrelor	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ticlopidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tildrakizumab	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+tilidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+timolol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tiotropium bromide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tirabrutinib hydrochloride	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tirofiban	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+tivozanib	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+tizanidine	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+tocainide	10	10	10	7	3	0	0	0	3	4	0.4	low_target_coverage_below_50_percent
+tocilizumab	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+tofacitinib	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+tolazamide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+tolazoline	8	8	8	8	0	0	0	0	0	8	1.0	adequate
+tolbutamide	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+tolcapone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tolmetin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+toloxatone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tolterodine	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+tolvaptan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+topiramate	31	30	30	23	7	1	0	0	5	18	0.5806451612903226	adequate
+topiroxostat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+topotecan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+toremifene	3	3	3	2	1	0	0	0	0	2	0.6666666666666666	adequate
+torsemide	2	2	2	0	2	0	0	0	0	0	0.0	zero_valid_targets
+tramadol	20	19	19	19	0	1	0	0	3	16	0.8	adequate
+trametinib	7	7	7	6	1	0	0	0	0	6	0.8571428571428571	adequate
+trandolapril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tranylcypromine	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+trastuzumab	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+trastuzumab deruxtecan	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+trastuzumab emtansine	8	8	8	7	1	0	0	0	0	7	0.875	adequate
+travoprost	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+trazodone	3	3	3	3	0	0	0	0	1	2	0.6666666666666666	adequate
+trelagliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+treprostinil	4	4	4	2	2	0	0	0	0	2	0.5	adequate
+tretinoin	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+triamcinolone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+triamcinolone acetonide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+triamcinolone diacetate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+triamcinolone hexacetonide	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+triamterene	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+triazolam	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+trichlormethiazide	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+triclofos	14	14	14	14	0	0	0	0	1	13	0.9285714285714286	adequate
+tridihexethyl	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+trifarotene	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+trifluoperazine	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+triflupromazine	5	4	4	4	0	1	0	0	0	4	0.8	adequate
+trihexyphenidyl	5	5	5	5	0	0	0	0	0	5	1.0	adequate
+trilaciclib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+trilostane	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+trimetaphan	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+trimethadione	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+trimipramine	10	10	10	9	1	0	0	0	2	7	0.7	adequate
+tripelennamine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+triprolidine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+triptorelin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+troglitazone	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+tropicamide	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+tropisetron	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+trospium	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+tubocurarine	5	5	5	5	0	0	0	0	1	4	0.8	adequate
+tucatinib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+tulobuterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ubrogepant	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+udenafil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ulipristal	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ulobetasol propionate	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+umbralisib	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+umeclidinium	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+upadacitinib	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+urapidil	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+urokinase	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+ursodiol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ustekinumab	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+vadadustat	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+valbenazine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+valdecoxib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+valproic acid	2	2	2	1	1	0	0	0	0	1	0.5	adequate
+valrubicin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+valsartan	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+vandetanib	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+vardenafil	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+varenicline	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+vasopressin	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+vecuronium	4	4	4	4	0	0	0	0	0	4	1.0	adequate
+vedolizumab	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+vemurafenib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+venetoclax	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+venlafaxine	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+verapamil	7	7	7	7	0	0	0	0	0	7	1.0	adequate
+vericiguat	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+vernakalant	4	4	4	1	3	0	0	0	0	1	0.25	low_target_coverage_below_50_percent
+vibegron	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+vigabatrin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+vilanterol	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+vilazodone	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+vildagliptin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+viloxazine	3	3	3	3	0	0	0	0	1	2	0.6666666666666666	adequate
+viltolarsen	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+vinblastine	10	10	10	7	3	0	0	0	0	7	0.7	adequate
+vincristine	7	7	7	6	1	0	0	0	0	6	0.8571428571428571	adequate
+vinflunine	7	7	7	6	1	0	0	0	0	6	0.8571428571428571	adequate
+vinorelbine	7	7	7	6	1	0	0	0	0	6	0.8571428571428571	adequate
+vismodegib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+voglibose	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+volanesorsen	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+vonoprazan	2	2	2	2	0	0	0	0	2	0	0.0	zero_valid_targets
+vorapaxar	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+vorinostat	11	11	11	6	5	0	0	0	2	4	0.36363636363636365	low_target_coverage_below_50_percent
+vorozole	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+vortioxetine	4	3	3	3	0	1	0	0	2	1	0.25	low_target_coverage_below_50_percent
+warfarin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+ximelagatran	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+xylometazoline	6	6	6	6	0	0	0	0	0	6	1.0	adequate
+yohimbine	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+zafirlukast	1	1	1	1	0	0	0	0	1	0	0.0	zero_valid_targets
+zaleplon	5	5	5	5	0	0	0	0	1	4	0.8	adequate
+zanubrutinib	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+zileuton	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+ziprasidone	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+zofenopril	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+zoledronic acid	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+zolmitriptan	2	1	1	1	0	1	0	0	0	1	0.5	adequate
+zolpidem	6	6	6	6	0	0	0	0	1	5	0.8333333333333334	adequate
+zonisamide	16	16	16	13	3	0	0	0	3	10	0.625	adequate
+zopiclone	8	8	8	8	0	0	0	0	1	7	0.875	adequate
+zucapsaicin	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+zuclopenthixol	3	2	2	2	0	1	0	0	0	2	0.6666666666666666	adequate
+mirogabalin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+LX9211	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+dextromethorphan	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+tariquidar	1	1	1	0	1	0	0	0	0	0	0.0	zero_valid_targets
+nabiximols	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+riboflavin	2	2	2	2	0	0	0	0	0	2	1.0	adequate
+thymol	3	3	3	3	0	0	0	0	0	3	1.0	adequate
+thiamine	1	1	1	1	0	0	0	0	0	1	1.0	adequate
+cobalamin	2	2	2	2	0	0	0	0	0	2	1.0	adequate

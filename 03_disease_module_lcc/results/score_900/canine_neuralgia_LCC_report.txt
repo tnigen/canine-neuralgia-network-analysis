@@ -1,0 +1,80 @@
+Canine neuralgia LCC significance report
+==========================================
+
+Inputs
+------
+Species: Canis lupus familiaris (domestic dog)
+STRING species ID: 9615
+Interactome: 9615.protein.links.v12.0.txt.gz
+Disease module: canine_neuralgia_genes.txt
+
+Installed NetMedPy API verified from package source
+---------------------------------------------------
+Function: lcc_significance(net, A, null_model='degree_match', node_bucket=None, n_iter=1000, bin_size=100, strength_weight='weight')
+Expected network: networkx.Graph
+Expected node set: iterable of graph node identifiers
+Supported null models: degree_match, log_binning, strength_binning, uniform, custom
+Returned values: d_mu, d_sigma, z_score, p_val, lcc, lcc_size, dist
+
+Graph construction and interactome QC
+-------------------------------------
+Method: simple undirected NetworkX Graph using protein1 and protein2 exactly as supplied by STRING
+Graph used for LCC: unweighted topology
+Edge metadata retained: combined_score (integer)
+No combined_score threshold was applied.
+Input edge records: 98722
+Unique undirected graph edges: 49361
+Unique graph nodes: 8674
+Self-loop records: 0
+Repeated same-orientation edge records: 0
+Reversed duplicate edge records: 49361
+Minimum combined_score: 900
+Maximum combined_score: 999
+Mean combined_score: 946.228926
+
+First five STRING rows:
+9615.ENSCAFP00000000001 9615.ENSCAFP00000037274 900
+9615.ENSCAFP00000000001 9615.ENSCAFP00000025228 914
+9615.ENSCAFP00000000001 9615.ENSCAFP00000038470 943
+9615.ENSCAFP00000000001 9615.ENSCAFP00000005745 907
+9615.ENSCAFP00000000001 9615.ENSCAFP00000023951 906
+
+Disease-module ID matching
+--------------------------
+Unique disease-module IDs supplied: 3363
+Duplicate supplied ID occurrences: 0
+IDs present in the interactome: 2407
+IDs absent from the interactome: 956
+Percentage present: 71.5730%
+Filtering for calculation: only the 2407 IDs present in the background interactome were passed to NetMedPy. Missing IDs were not silently discarded; they are recorded in canine_neuralgia_missing_from_interactome.txt.
+
+LCC significance result
+-----------------------
+Observed LCC size: 1784
+Null model: log_binning
+Degree-bin size: 100
+Random seed: 42
+Randomization iterations: 10000
+Null mean LCC: 1597.1795
+Null standard deviation: 50.2409203712
+LCC Z-score: 3.71849278675
+NetMedPy empirical upper-tail p-value: 0
+
+Interpretation
+--------------
+The observed LCC is the largest group of mapped canine neuralgia proteins that are mutually reachable using only interactions among proteins in the supplied disease set. The log-binning null distribution consists of equally sized randomized node sets sampled from similar network-degree bins. The Z-score measures how many null standard deviations the observed LCC lies above or below the null mean. The empirical upper-tail p-value is the fraction of randomized LCCs at least as large as the observed LCC. NetMedPy returned p=0 because none of the 10,000 randomized LCCs was at least as large as observed; the finite-simulation resolution supports reporting this as empirical p<0.0001 alongside the exact output.
+
+The observed LCC (1784 proteins) is larger than the null expectation (1597.179) and is significant at alpha=0.05. This supports treating the mapped canine neuralgia proteins as a topologically coherent disease module for subsequent network-medicine analyses. It does not establish drug efficacy or drug-disease proximity.
+
+Methodological limitations
+--------------------------
+This is a topological disease-module validation, not evidence of causality, drug efficacy, or drug-disease proximity. STRING associations are not necessarily direct physical interactions and can reflect heterogeneous evidence. Using the supplied full STRING links file without an additional threshold preserves the requested input but can make the network dense. Results depend on interactome coverage, disease-ID coverage, database ascertainment, and the selected approximate degree-bin null model. The graph is undirected and context-free, so tissue, temporal, cell-type, directionality, and interaction-sign information are not modeled. Monte Carlo p-value precision is limited by 10000 iterations.
+
+Software
+--------
+Python: 3.13.15
+NetMedPy: 0.2.0.1
+NetworkX: 3.6.1
+NumPy: 2.5.2
+SciPy: 1.18.1
+pandas: 3.0.5

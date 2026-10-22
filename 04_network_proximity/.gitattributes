@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.txt -text
+*.csv -text
+*.tsv -text
+*.gz binary
+*.npz binary
+*.xlsx binary

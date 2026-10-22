@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.pytest_cache/
+.coverage
+*.log
+canine_netmedpy_aws_bundle*.zip
+results/*/netmedpy_shortest_path_distances.npz

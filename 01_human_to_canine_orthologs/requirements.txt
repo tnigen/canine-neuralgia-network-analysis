@@ -1,0 +1,5 @@
+pandas>=2.0,<3.0
+requests>=2.31,<3.0
+# Retain compatibility with Python builds linked against LibreSSL.
+urllib3>=1.26,<2.0
+openpyxl>=3.1,<4.0

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Human Drug Targets to Canine One-to-One Orthologs"
+type: software
+authors:
+  - family-names: "Teimourpour"
+    given-names: "Negin"
+    orcid: "https://orcid.org/0009-0009-8118-6436"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/tnigen/canine-neuralgia-network-analysis"

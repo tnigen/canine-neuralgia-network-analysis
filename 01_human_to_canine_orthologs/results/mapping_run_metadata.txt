@@ -1,0 +1,28 @@
+Date and time: 2026-09-21T19:58:11+03:30
+Python version: 3.9.6
+Script name/version: map_drug_targets_to_dog_biomart.py 1.0.1
+Ensembl BioMart requested service: https://mart.ensembl.org/biomart/martservice
+Ensembl BioMart resolved service: https://mart.ensembl.org/biomart/martservice
+BioMart mart: ENSEMBL_MART_ENSEMBL (Ensembl Genes 116)
+Human dataset identifier: hsapiens_gene_ensembl
+Human dataset display name: Human genes (GRCh38.p14)
+Human gene-symbol filter identifier: hgnc_symbol (HGNC symbol(s) [e.g. A1BG])
+Human Ensembl gene-ID filter identifier: ensembl_gene_id (Gene stable ID(s) [e.g. ENSG00000000003])
+Attributes used:
+  - Human Gene stable ID: ensembl_gene_id (Gene stable ID)
+  - Human Gene name: external_gene_name (Gene name)
+  - Input-symbol audit attribute: hgnc_symbol (HGNC symbol)
+  - Human HGNC identity: hgnc_id (HGNC ID)
+  - Dog Gene stable ID: clfamiliaris_homolog_ensembl_gene (Dog gene stable ID)
+  - Dog Gene name: clfamiliaris_homolog_associated_gene_name (Dog gene name)
+  - Dog homology type: clfamiliaris_homolog_orthology_type (Dog homology type)
+Source species: Homo sapiens
+Target species: Dog / Canis lupus familiaris
+Orthology inclusion criterion: strict human-to-dog one-to-one orthologs only
+Exact BioMart homology-type value used: ortholog_one2one
+Input filename: drug_target_human.xlsx
+Input SHA-256: 0c07086c8ccd719456d0bcdce59fe381b12f008d3634c44fd031c6e7cb952540
+Input row count: 5442
+Duplicate input rows removed: 0
+Unique human target count: 941
+Per-drug mapping percentage definition: 100 * unique input human targets that produced at least one retained dog symbol / unique input human targets for that drug
