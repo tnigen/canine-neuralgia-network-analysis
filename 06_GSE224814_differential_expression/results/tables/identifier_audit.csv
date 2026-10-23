@@ -1,0 +1,2 @@
+original_identifier_format,rows,unique_identifiers,duplicated_identifier_rows,missing_identifiers,literal_NA_like_identifiers,malformed_identifiers,identical_identifier_order_across_six_files,duplicate_handling
+gene-symbol-like labels in column Gene,47061,17108,29953,0,0,49,True,retained as independent source rows in the audit; not used for DE because values are normalized

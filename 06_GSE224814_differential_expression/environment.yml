@@ -1,0 +1,13 @@
+name: gse224814-analysis
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11.16
+  - hisat2=2.2.1
+  - subread=2.0.8
+  - samtools=1.22.1
+  - sra-tools=3.2.1
+  - pip=26.2.1
+  - pip:
+      - -r requirements.txt

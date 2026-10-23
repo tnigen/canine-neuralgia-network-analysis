@@ -1,0 +1,2 @@
+features,samples,sample_columns,minimum_count,maximum_count,nonnegative,all_integer,duplicated_sample_columns,duplicated_gene_identifiers,metadata_samples_match_exactly,source
+32623,6,A1_TG|A2_TG|A3_TG|B1_TG|B2_TG|B3_TG,0,407277,True,True,0,0,True,paired FASTQ -> HISAT2 rn6 alignment -> featureCounts gene-level fragments

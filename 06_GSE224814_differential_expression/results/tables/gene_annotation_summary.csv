@@ -1,0 +1,8 @@
+metric,value
+total_DEG_features,431
+uniquely_identified_genes,430
+unresolved_identifiers,0
+ambiguous_identifiers,1
+DEGs_with_valid_symbols,431
+DEGs_with_Ensembl_IDs,431
+DEGs_with_Entrez_IDs,354

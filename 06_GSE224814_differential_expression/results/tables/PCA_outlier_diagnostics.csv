@@ -1,0 +1,7 @@
+sample_id,PC1,PC2,condition,GSM,distance_from_condition_centroid_PC1_PC2,exploratory_flag,flag_rule,interpretation
+A1_TG,-11.882662955832325,9.093105595799901,Sham,GSM7033526,8.723681625216372,False,distance > pooled Q3 + 1.5*IQR (15.1538),No flag by the prespecified exploratory Tukey-fence rule.
+A2_TG,-16.248867392855967,-7.46017840157836,Sham,GSM7033527,8.410908955591639,False,distance > pooled Q3 + 1.5*IQR (15.1538),No flag by the prespecified exploratory Tukey-fence rule.
+A3_TG,-13.140569956283775,0.0867933439784974,Sham,GSM7033528,0.7855372881248995,False,distance > pooled Q3 + 1.5*IQR (15.1538),No flag by the prespecified exploratory Tukey-fence rule.
+B1_TG,14.637768372489623,-5.932868894304776,CCI_ION,GSM7033529,5.431457166014372,False,distance > pooled Q3 + 1.5*IQR (15.1538),No flag by the prespecified exploratory Tukey-fence rule.
+B2_TG,14.906968923711364,7.990365664069971,CCI_ION,GSM7033530,8.640424188544483,False,distance > pooled Q3 + 1.5*IQR (15.1538),No flag by the prespecified exploratory Tukey-fence rule.
+B3_TG,11.727363008771183,-3.777217307965265,CCI_ION,GSM7033531,3.79293879520458,False,distance > pooled Q3 + 1.5*IQR (15.1538),No flag by the prespecified exploratory Tukey-fence rule.

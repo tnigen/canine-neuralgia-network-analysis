@@ -1,0 +1,16 @@
+.DS_Store
+.Rhistory
+.venv/
+.matplotlib/
+__pycache__/
+*.py[cod]
+*.partial
+*.assembling
+*.parts/
+results/logs/
+data_processed/reference/
+data_processed/alignment_cache/
+data_raw/sra_fastq_cache/
+data_raw/annotation/gene2ensembl.gz
+data_raw/reference/*.fa.gz
+data_raw/reference/*hisat2_index.tar.gz

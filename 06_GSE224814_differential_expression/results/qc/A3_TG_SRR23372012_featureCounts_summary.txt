@@ -1,0 +1,15 @@
+Status	data_processed/alignment_cache/A3_TG.pair_adjacent.bam
+Assigned	19601592
+Unassigned_Unmapped	1000252
+Unassigned_Read_Type	0
+Unassigned_Singleton	1632571
+Unassigned_MappingQuality	0
+Unassigned_Chimera	186709
+Unassigned_FragmentLength	0
+Unassigned_Duplicate	0
+Unassigned_MultiMapping	4085529
+Unassigned_Secondary	0
+Unassigned_NonSplit	0
+Unassigned_NoFeatures	3361048
+Unassigned_Overlapping_Length	0
+Unassigned_Ambiguity	323208

@@ -1,0 +1,9 @@
+metric,value
+PC1_variance_percent,57.767938693311216
+PC2_variance_percent,12.620592673001616
+PC1_group_ranges_nonoverlapping,True
+Sham_PC1_min,-16.248867392855967
+Sham_PC1_max,-11.882662955832325
+CCI_ION_PC1_min,11.727363008771183
+CCI_ION_PC1_max,14.906968923711364
+condition_centroid_distance_PC1_PC2,27.538608875646947

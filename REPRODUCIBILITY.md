@@ -24,6 +24,38 @@ The disease-ID file is supplied as the GeneCards/DEG union. Its upstream curatio
 
 The plotting folder includes regenerated PDFs and PNGs from the supplied rankings. Original thesis image files were not supplied for visual identity comparison. The expensive full historical analyses were not rerun during repository preparation.
 
+## GSE224814 differential expression
+
+`06_GSE224814_differential_expression` contains the six-sample rat count matrix,
+metadata, featureCounts records, original statistical outputs, annotation, and
+figures. The archived 32,623-feature matrix yields 15,029 features after the
+original low-count filter and 431 primary DEGs (368 up, 63 down).
+
+The `--from-counts` route uses the original count matrix, bundled Ensembl-104
+GTF, and archived rat cross-reference data, with the same model, thresholds,
+seed, QC, and plotting code as the raw-read route. The compact `gene2ensembl`
+file retains every rat row from the original global file. Counts, statistics,
+and original figure bytes are preserved in the publication copy.
+
+Large alignment references, installed software, and machine logs are excluded
+from Git. Public read URLs and MD5 hashes are bundled. The original source
+checksum table records the full historical references; the separate stage
+manifests identify files actually distributed. Live NCBI annotation downloads
+may differ from the archived snapshot, so full raw-read reconstruction has
+additional version and storage requirements. See the stage's `DATA.md`.
+
+The saved-data tests verify matrix/sample identities, count-file agreement,
+filtering, DEG selection and statistics, annotation membership, VST distances,
+and archived QC. These tests alone do not establish numerical identity of a
+new PyDESeq2 fit or reproduce the full read-alignment run.
+
+A separate four-thread count-based rerun passed all 18 built-in analysis checks
+and recovered the archived DEG membership, directions, and annotations. An
+unmodified-original-code control run produced byte-identical differential-
+expression CSVs to the prepared code in the same environment. Both refits
+differ numerically from some archived statistics; the archived tables and
+figure bytes were retained. Raw reads were not realigned during this review.
+
 ## Verification environment
 
 The final review checked all saved random-distance means and standard deviations against the retained null distributions. All six LCC regression tests passed. Four proximity checks passed; the full proximity integration test could not complete because the review environment denied operating-system shared-memory allocation. Run the complete proximity suite in a normal local or server environment before a new production analysis. The test and scientific implementation were left unchanged.

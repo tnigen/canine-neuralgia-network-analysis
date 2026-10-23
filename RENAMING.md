@@ -7,6 +7,7 @@
 | `Neuralgia_LCC/` | `03_disease_module_lcc/` |
 | `proximity/` | `04_network_proximity/` |
 | `figures/` | `05_publication_figures/` |
+| `GSE224814/GSE224814_analysis/` | `06_GSE224814_differential_expression/` |
 
 LCC archives were also reorganized:
 

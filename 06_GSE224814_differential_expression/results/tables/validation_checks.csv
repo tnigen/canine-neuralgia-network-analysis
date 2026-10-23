@@ -1,0 +1,19 @@
+check,status,details
+GEO accession is GSE224814,PASS,Project and downloaded GEO metadata identify GSE224814
+Exactly six biological samples,PASS,n=6
+Sham n = 3,PASS,n=3
+CCI_ION n = 3,PASS,n=3
+No sample duplicated,PASS,metadata index and count columns unique
+Count matrix and metadata identities match,PASS,"['A1_TG', 'A2_TG', 'A3_TG', 'B1_TG', 'B2_TG', 'B3_TG']"
+PyDESeq2 input is non-negative integer counts,PASS,featureCounts fragment counts
+No normalized/TPM/FPKM input supplied to PyDESeq2,PASS,6 featureCounts outputs; all six GEO decimal files explicitly rejected by input audit
+Filtered matrix non-empty,PASS,15029 features
+Contrast is CCI_ION minus Sham,PASS,"['condition', 'CCI_ION', 'Sham']"
+Positive log2FC means higher in CCI-ION,PASS,"explicit contrast=['condition','CCI_ION','Sham']"
+Every primary DEG has padj < 0.05,PASS,n=431
+Every primary DEG has abs(log2FC) >= 1,PASS,n=431
+No NA padj classified as DEG,PASS,NA DEG padj=0
+Up + down equals total DEGs,PASS,368+63=431
+All major result files exist,PASS,35/35
+All CSV outputs reopen,PASS,32 CSV files
+All requested figures generated,PASS,10 figure files

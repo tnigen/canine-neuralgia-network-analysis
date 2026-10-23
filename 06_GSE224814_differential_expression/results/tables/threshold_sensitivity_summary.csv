@@ -1,0 +1,6 @@
+criterion,count,role
+raw_pvalue_lt_0.05,3744,descriptive_sensitivity
+padj_lt_0.05,2343,descriptive_sensitivity
+padj_lt_0.05_and_abs_log2FC_ge_0.5,1128,descriptive_sensitivity
+padj_lt_0.05_and_abs_log2FC_ge_1_primary,431,primary
+raw_pvalue_lt_0.05_and_abs_log2FC_ge_1,537,descriptive_sensitivity

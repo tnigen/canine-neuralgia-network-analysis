@@ -1,0 +1,15 @@
+Status	data_processed/alignment_cache/B2_TG.pair_adjacent.bam
+Assigned	16436946
+Unassigned_Unmapped	896268
+Unassigned_Read_Type	0
+Unassigned_Singleton	1328972
+Unassigned_MappingQuality	0
+Unassigned_Chimera	159252
+Unassigned_FragmentLength	0
+Unassigned_Duplicate	0
+Unassigned_MultiMapping	3660585
+Unassigned_Secondary	0
+Unassigned_NonSplit	0
+Unassigned_NoFeatures	2729660
+Unassigned_Overlapping_Length	0
+Unassigned_Ambiguity	294888

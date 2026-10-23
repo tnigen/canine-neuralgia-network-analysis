@@ -1,0 +1,7 @@
+sample_id,GSM,condition,source_filename,filename_token,expression_header,GEO_title,GEO_treatment,SRA_experiment,SRA_run,expected_SRA_run,title_matches,header_matches,condition_matches,SRA_run_matches,all_checks_match
+A1_TG,GSM7033526,Sham,GSM7033526_A1.txt.gz,A1,Gene	A1,A1_TG sham sample 1,sham-operation,SRX19312984,SRR23372014,SRR23372014,True,True,True,True,True
+A2_TG,GSM7033527,Sham,GSM7033527_A2.txt.gz,A2,Gene	A2,A2_TG sham sample 2,sham-operation,SRX19312985,SRR23372013,SRR23372013,True,True,True,True,True
+A3_TG,GSM7033528,Sham,GSM7033528_A3.txt.gz,A3,Gene	A3,A3_TG sham sample 3,sham-operation,SRX19312986,SRR23372012,SRR23372012,True,True,True,True,True
+B1_TG,GSM7033529,CCI_ION,GSM7033529_B1.txt.gz,B1,Gene	B1,B1_TG CCI-ION sample 1,CCI-ION-operation,SRX19312987,SRR23372011,SRR23372011,True,True,True,True,True
+B2_TG,GSM7033530,CCI_ION,GSM7033530_B2.txt.gz,B2,Gene	B2,B2_TG CCI-ION sample 2,CCI-ION-operation,SRX19312988,SRR23372010,SRR23372010,True,True,True,True,True
+B3_TG,GSM7033531,CCI_ION,GSM7033531_B3.txt.gz,B3,Gene	B3,B3_TG CCI-ION sample 3,CCI-ION-operation,SRX19312989,SRR23372009,SRR23372009,True,True,True,True,True

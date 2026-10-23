@@ -1,0 +1,14 @@
+metric,value
+features_before_low_count_filtering,32623.0
+features_retained_after_filtering,15029.0
+features_tested_by_PyDESeq2,15029.0
+features_with_raw_pvalue_lt_0.05,3744.0
+features_with_padj_lt_0.05_regardless_of_fold_change,2343.0
+features_with_NA_padj,18.0
+primary_DEGs,431.0
+upregulated,368.0
+downregulated,63.0
+smallest_non_NA_pvalue,0.0
+smallest_non_NA_padj,0.0
+minimum_DEG_log2FoldChange,-6.046339732530723
+maximum_DEG_log2FoldChange,9.641660214173248

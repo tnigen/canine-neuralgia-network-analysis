@@ -1,0 +1,432 @@
+original_id,rat_gene_symbol,rat_ensembl_gene_id,rat_entrez_id,rat_gene_name,gene_biotype,mapping_status,mapping_evidence
+ENSRNOG00000003745,Atf3,ENSRNOG00000003745,25389,activating transcription factor 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004805,Stac2,ENSRNOG00000004805,363674,SH3 and cysteine rich domain 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004874,Flrt3,ENSRNOG00000004874,366205,fibronectin leucine rich transmembrane protein 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000005615,Gadd45a,ENSRNOG00000005615,25112,"growth arrest and DNA-damage-inducible, alpha",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033531,Cacna2d1,ENSRNOG00000033531,25399,calcium voltage-gated channel auxiliary subunit alpha2delta 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018735,Cd74,ENSRNOG00000018735,25599,CD74 molecule,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006151,Reg3b,ENSRNOG00000006151,24618,regenerating family member 3 beta,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013654,Cbln2,ENSRNOG00000013654,291388,cerebellin 2 precursor,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000023546,Hspb1,ENSRNOG00000023546,24471,heat shock protein family B (small) member 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004033,Sema6a,ENSRNOG00000004033,361324,semaphorin 6A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020136,Tgm1,ENSRNOG00000020136,60335,transglutaminase 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017438,Gfra1,ENSRNOG00000017438,25454,GDNF family receptor alpha 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017445,Tubb2b,ENSRNOG00000017445,291081,"tubulin, beta 2B class IIb",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001528,Gap43,ENSRNOG00000001528,29423,growth associated protein 43,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016687,Ssc5d,ENSRNOG00000016687,308341,scavenger receptor cysteine rich family member with 5 domains,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018371,Tubb6,ENSRNOG00000018371,307351,"tubulin, beta 6 class V",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000005700,Nsg1,ENSRNOG00000005700,25247,neuronal vesicle trafficking associated 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001416,Vgf,ENSRNOG00000001416,29461,VGF nerve growth factor inducible,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015415,Rhoq,ENSRNOG00000015415,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000019447,Ecel1,ENSRNOG00000019447,60417,endothelin converting enzyme-like 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000026293,Jun,ENSRNOG00000026293,24516,"Jun proto-oncogene, AP-1 transcription factor subunit",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000049882,Adcyap1,ENSRNOG00000049882,24166,adenylate cyclase activating polypeptide 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000065,Pde6b,ENSRNOG00000000065,289878,phosphodiesterase 6B,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000023077,Cpne9,ENSRNOG00000023077,297516,copine family member 9,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003031,Atp2b4,ENSRNOG00000003031,29600,ATPase plasma membrane Ca2+ transporting 4,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000049949,Hapln4,ENSRNOG00000049949,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000053334,Stmn4,ENSRNOG00000053334,79423,stathmin 4,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004687,Thbd,ENSRNOG00000004687,83580,thrombomodulin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015156,Gal,ENSRNOG00000015156,29141,galanin and GMAP prepropeptide,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000030034,Sox11,ENSRNOG00000030034,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000013987,Sbno2,ENSRNOG00000013987,314619,strawberry notch homolog 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013981,Ptpn5,ENSRNOG00000013981,29644,"protein tyrosine phosphatase, non-receptor type 5",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011518,Dusp26,ENSRNOG00000011518,306527,dual specificity phosphatase 26,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000025998,Crybg1,ENSRNOG00000025998,309866,crystallin beta-gamma domain containing 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000042860,Pappa2,ENSRNOG00000042860,680415,pappalysin 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000012422,Tnik,ENSRNOG00000012422,294917,TRAF2 and NCK interacting kinase,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007364,Rab15,ENSRNOG00000007364,299156,"RAB15, member RAS oncogene family",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000024923,Nnat,ENSRNOG00000024923,94270,neuronatin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000019959,Kcnc3,ENSRNOG00000019959,117101,potassium voltage-gated channel subfamily C member 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000014327,Csrp3,ENSRNOG00000014327,117505,cysteine and glycine rich protein 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006526,Sema3c,ENSRNOG00000006526,296787,semaphorin 3C,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003512,Gabra1,ENSRNOG00000003512,29705,gamma-aminobutyric acid type A receptor subunit alpha 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018598,Ankrd1,ENSRNOG00000018598,27064,ankyrin repeat domain 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000046834,C3,ENSRNOG00000046834,24232,complement C3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001476,Cldn4,ENSRNOG00000001476,304407,claudin 4,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016166,Pdlim1,ENSRNOG00000016166,54133,PDZ and LIM domain 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000059947,Sdc1,ENSRNOG00000059947,25216,syndecan 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006911,Sptb,ENSRNOG00000006911,314251,"spectrin, beta, erythrocytic",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000061630,AABR07009834.1,ENSRNOG00000061630,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000005708,Mmp16,ENSRNOG00000005708,65205,matrix metallopeptidase 16,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010803,Gabra5,ENSRNOG00000010803,29707,gamma-aminobutyric acid type A receptor subunit alpha 5,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000062276,Ggt5,ENSRNOG00000062276,29566,gamma-glutamyltransferase 5,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000009629,Ca2,ENSRNOG00000009629,54231,carbonic anhydrase 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001415,Ap1s1,ENSRNOG00000001415,360785,adaptor related protein complex 1 subunit sigma 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013090,Gadd45g,ENSRNOG00000013090,291005,"growth arrest and DNA-damage-inducible, gamma",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011646,Rem2,ENSRNOG00000011646,64626,RRAD and GEM like GTPase 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004222,S100g,ENSRNOG00000004222,24249,S100 calcium binding protein G,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015441,Il4r,ENSRNOG00000015441,25084,interleukin 4 receptor,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000048932,Smagp,ENSRNOG00000048932,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000051507,Azin2,ENSRNOG00000051507,366473,antizyme inhibitor 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000058856,Tslp,ENSRNOG00000058856,688621,thymic stromal lymphopoietin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006950,Padi3,ENSRNOG00000006950,29520,peptidyl arginine deiminase 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010694,Tpbg,ENSRNOG00000010694,83684,trophoblast glycoprotein,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000052424,Kiaa1671,ENSRNOG00000052424,288744,KIAA1671 homolog,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000005619,Misp3,ENSRNOG00000005619,304650,MISP family member 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000014336,Mcm5,ENSRNOG00000014336,291885,minichromosome maintenance complex component 5,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011360,Dkk2,ENSRNOG00000011360,295445,dickkopf WNT signaling pathway inhibitor 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006471,Pvalb,ENSRNOG00000006471,25269,parvalbumin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000012865,Parp3,ENSRNOG00000012865,300985,"poly (ADP-ribose) polymerase family, member 3",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010994,Has1,ENSRNOG00000010994,282821,hyaluronan synthase 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000521,Cdkn1a,ENSRNOG00000000521,114851,cyclin-dependent kinase inhibitor 1A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000046848,Pcolce2,ENSRNOG00000046848,684050,procollagen C-endopeptidase enhancer 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000002946,Socs3,ENSRNOG00000002946,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000001873,P2rx6,ENSRNOG00000001873,25041,purinergic receptor P2X 6,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015279,Vtcn1,ENSRNOG00000015279,295322,V-set domain containing T cell activation inhibitor 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015382,Arid5a,ENSRNOG00000015382,316327,AT-rich interaction domain 5A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000054251,Clec7a,ENSRNOG00000054251,502902,C-type lectin domain containing 7A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020281,Kif22,ENSRNOG00000020281,293502,kinesin family member 22,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000029651,LOC100365958,ENSRNOG00000029651,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000017996,Cryba2,ENSRNOG00000017996,286925,"crystallin, beta A2",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000031126,Tecta,ENSRNOG00000031126,300653,tectorin alpha,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018286,Chrna1,ENSRNOG00000018286,79557,cholinergic receptor nicotinic alpha 1 subunit,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003538,Adamts4,ENSRNOG00000003538,66015,"ADAM metallopeptidase with thrombospondin type 1 motif, 4",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000005825,Lyz2,ENSRNOG00000005825,25211,lysozyme 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003348,Rasd1,ENSRNOG00000003348,64455,ras related dexamethasone induced 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001572,Hoxd1,ENSRNOG00000001572,288151,homeo box D1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010105,S100a11,ENSRNOG00000010105,445415,S100 calcium binding protein A11,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003880,Tph2,ENSRNOG00000003880,317675,tryptophan hydroxylase 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000048967,C9h6orf141,ENSRNOG00000048967,688459,similar to human chromosome 6 open reading frame 141,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015267,LOC108348083,ENSRNOG00000015267,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000037456,P2rx2,ENSRNOG00000037456,114115,purinergic receptor P2X 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000019202,Pvr,ENSRNOG00000019202,25066,PVR cell adhesion molecule,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000030729,C4b,ENSRNOG00000030729,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000018659,Csf1,ENSRNOG00000018659,78965,colony stimulating factor 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000032669,Serpina1,ENSRNOG00000032669,24648,serpin family A member 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010549,Tspo,ENSRNOG00000010549,24230,translocator protein,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017392,Fgf2,ENSRNOG00000017392,54250,fibroblast growth factor 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000055259,Phldb3,ENSRNOG00000055259,308431,"pleckstrin homology-like domain, family B, member 3",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001338,Hpd,ENSRNOG00000001338,29531,4-hydroxyphenylpyruvate dioxygenase,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015455,Spr,ENSRNOG00000015455,29270,sepiapterin reductase,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000022101,Crabp2,ENSRNOG00000022101,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000017656,Ccdc172,ENSRNOG00000017656,361776,coiled-coil domain containing 172,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000008137,Cdk18,ENSRNOG00000008137,289019,cyclin-dependent kinase 18,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020030,Crlf1,ENSRNOG00000020030,290655,cytokine receptor-like factor 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004470,Il24,ENSRNOG00000004470,170819,interleukin 24,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016977,Calb2,ENSRNOG00000016977,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000032844,RT1-Da,ENSRNOG00000032844,294269,"RT1 class II, locus Da",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000042838,Junb,ENSRNOG00000042838,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000047657,C4a,ENSRNOG00000047657,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000024159,Fcer1g,ENSRNOG00000024159,25441,Fc epsilon receptor Ig,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000026647,Cxcl16,ENSRNOG00000026647,497942,C-X-C motif chemokine ligand 16,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000012749,C1qb,ENSRNOG00000012749,29687,complement C1q B chain,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004177,Myo1a,ENSRNOG00000004177,299509,myosin IA,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010691,Cmtm3,ENSRNOG00000010691,291813,CKLF-like MARVEL transmembrane domain containing 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007281,Flnc,ENSRNOG00000007281,362332,filamin C,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007552,Arhgap36,ENSRNOG00000007552,302819,Rho GTPase activating protein 36,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013304,Arg1,ENSRNOG00000013304,29221,arginase 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000021062,Fxyd5,ENSRNOG00000021062,60338,FXYD domain-containing ion transport regulator 5,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000002462,B9d1,ENSRNOG00000002462,287383,B9 domain containing 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000025624,Arhgap20,ENSRNOG00000025624,367085,Rho GTPase activating protein 20,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011668,Nfil3,ENSRNOG00000011668,114519,"nuclear factor, interleukin 3 regulated",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011984,Cxcl14,ENSRNOG00000011984,306748,C-X-C motif chemokine ligand 14,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000037113,Slfn2,ENSRNOG00000037113,303380,schlafen family member 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010208,Timp1,ENSRNOG00000010208,116510,TIMP metallopeptidase inhibitor 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000005154,Alkal2,ENSRNOG00000005154,679566,ALK and LTK ligand 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006778,Mmp19,ENSRNOG00000006778,304608,matrix metallopeptidase 19,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007159,Ccl2,ENSRNOG00000007159,24770,C-C motif chemokine ligand 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015078,Ifitm3,ENSRNOG00000015078,361673,interferon induced transmembrane protein 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011901,Rrad,ENSRNOG00000011901,83521,"RRAD, Ras related glycolysis inhibitor and calcium channel regulator",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007561,Glb1l2,ENSRNOG00000007561,503194,"galactosidase, beta 1-like 2",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000008428,Drd2,ENSRNOG00000008428,24318,dopamine receptor D2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000014233,Krt19,ENSRNOG00000014233,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000046700,Mettl27,ENSRNOG00000046700,688407,methyltransferase like 27,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013170,Il13ra1,ENSRNOG00000013170,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000012804,C1qc,ENSRNOG00000012804,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000021157,Ctss,ENSRNOG00000021157,50654,cathepsin S,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001130,Nos1,ENSRNOG00000001130,24598,nitric oxide synthase 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011039,Gch1,ENSRNOG00000011039,29244,GTP cyclohydrolase 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000014837,Emilin2,ENSRNOG00000014837,316736,elastin microfibril interfacer 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000009153,Cidec,ENSRNOG00000009153,500292,cell death-inducing DFFA-like effector c,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017762,Cdhr5,ENSRNOG00000017762,171554,cadherin-related family member 5,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000046449,Npy,ENSRNOG00000046449,24604,neuropeptide Y,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000014847,Rassf10,ENSRNOG00000014847,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000060235,AABR07044837.2,ENSRNOG00000060235,,,lincRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000021029,Hamp,ENSRNOG00000021029,84604,hepcidin antimicrobial peptide,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000002659,Ciita,ENSRNOG00000002659,85483,"class II, major histocompatibility complex, transactivator",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015416,Nabp1,ENSRNOG00000015416,363227,nucleic acid binding protein 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000046452,Fcgr2b,ENSRNOG00000046452,289211,Fc gamma receptor 2B,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000009871,Piwil2,ENSRNOG00000009871,306011,piwi-like RNA-mediated gene silencing 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000014504,Il1r1,ENSRNOG00000014504,25663,interleukin 1 receptor type 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000906,Medag,ENSRNOG00000000906,360757,mesenteric estrogen-dependent adipogenesis,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015774,Mreg,ENSRNOG00000015774,501162,melanoregulin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000026762,RT1-DOa,ENSRNOG00000026762,24984,"RT1 class II, locus DOa",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000002045,Anxa3,ENSRNOG00000002045,25291,annexin A3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000032232,Snrpgl1,ENSRNOG00000032232,687679,small nuclear ribonucleoprotein polypeptide G like 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006090,Ucn,ENSRNOG00000006090,29151,urocortin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000021084,AABR07006310.1,ENSRNOG00000021084,,,pseudogene,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000018808,Vip,ENSRNOG00000018808,117064,vasoactive intestinal peptide,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018557,Cdh22,ENSRNOG00000018557,29182,cadherin 22,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033570,Arhgap8,ENSRNOG00000033570,300115,Rho GTPase activating protein 8,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000019321,Cck,ENSRNOG00000019321,25298,cholecystokinin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016653,Ngef,ENSRNOG00000016653,246217,neuronal guanine nucleotide exchange factor,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033433,Csrnp1,ENSRNOG00000033433,363165,cysteine and serine rich nuclear protein 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000454,RT1-DOb,ENSRNOG00000000454,365542,"RT1 class II, locus DOb",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020991,Ms4a6a,ENSRNOG00000020991,361735,membrane spanning 4-domains A6A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018291,LOC103693015,ENSRNOG00000018291,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000047606,Bcl2a1,ENSRNOG00000047606,170929,BCL2-related protein A1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013496,Crisp3,ENSRNOG00000013496,64827,cysteine-rich secretory protein 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020845,Tyrobp,ENSRNOG00000020845,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000049959,Igsf21,ENSRNOG00000049959,298591,"immunoglobin superfamily, member 21",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000723,RT1-CE5,ENSRNOG00000000723,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000011180,Irx5,ENSRNOG00000011180,498918,iroquois homeobox 5,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000048169,Tuba8,ENSRNOG00000048169,500377,"tubulin, alpha 8",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000047187,Surf2,ENSRNOG00000047187,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000000443,LOC103689965,ENSRNOG00000000443,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000007483,Ccnf,ENSRNOG00000007483,117524,cyclin F,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000058906,Ptprh,ENSRNOG00000058906,171125,"protein tyrosine phosphatase, receptor type, H",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000030021,Ccl6,ENSRNOG00000030021,287910,C-C motif chemokine ligand 6,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000024028,Sprr1a,ENSRNOG00000024028,499660,small proline-rich protein 1A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007332,Sstr3,ENSRNOG00000007332,171044,somatostatin receptor 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000012181,Lpl,ENSRNOG00000012181,24539,lipoprotein lipase,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006767,Cst7,ENSRNOG00000006767,296257,cystatin F,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000027811,Lilrb4,ENSRNOG00000027811,292594,leukocyte immunoglobulin like receptor B4,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000056580,En1,ENSRNOG00000056580,685360,engrailed homeobox 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000060407,Cacna1i,ENSRNOG00000060407,56827,calcium voltage-gated channel subunit alpha1 I,processed_transcript,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000051235,C2,ENSRNOG00000051235,24231;294257,,protein_coding,ambiguous,Ensembl release 104 gene ID maps to multiple NCBI Gene IDs: 24231;294257
+ENSRNOG00000003680,Gabrb2,ENSRNOG00000003680,25451,gamma-aminobutyric acid type A receptor subunit beta 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016825,Polr1g,ENSRNOG00000016825,680493,RNA polymerase I subunit G,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000008911,Draxin,ENSRNOG00000008911,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000020300,Lsp1,ENSRNOG00000020300,361680,lymphocyte-specific protein 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000057092,Slfn4,ENSRNOG00000057092,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000011250,Inmt,ENSRNOG00000011250,368066,indolethylamine N-methyltransferase,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000031930,Bin2,ENSRNOG00000031930,366988,bridging integrator 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033215,RT1-Db1,ENSRNOG00000033215,294270,"RT1 class II, locus Db1",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001224,Itgb2,ENSRNOG00000001224,309684,integrin subunit beta 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000043044,Cnn2,ENSRNOG00000043044,690976,calponin 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000061365,AABR07007055.1,ENSRNOG00000061365,,,lincRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000019728,Itgam,ENSRNOG00000019728,25021,integrin subunit alpha M,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000024899,Cxcl13,ENSRNOG00000024899,498335,C-X-C motif chemokine ligand 13,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000055204,AABR07034833.1,ENSRNOG00000055204,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000020743,Cyp2s1,ENSRNOG00000020743,308445,"cytochrome P450, family 2, subfamily s, polypeptide 1",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000025151,Ildr2,ENSRNOG00000025151,685277,immunoglobulin-like domain containing receptor 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007528,Kcnh7,ENSRNOG00000007528,170739,potassium voltage-gated channel subfamily H member 7,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013521,Dhfr,ENSRNOG00000013521,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000017679,Cckbr,ENSRNOG00000017679,25706,cholecystokinin B receptor,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017773,Crispld1,ENSRNOG00000017773,316482,cysteine-rich secretory protein LCCL domain containing 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000025811,Cfp,ENSRNOG00000025811,299314,complement factor properdin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000699,Selplg,ENSRNOG00000000699,363930,selectin P ligand,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016753,Slc14a1,ENSRNOG00000016753,54301,solute carrier family 14 member 1 (Kidd blood group),protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020875,Celf3,ENSRNOG00000020875,499669,"CUGBP, Elav-like family member 3",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000036703,Itgax,ENSRNOG00000036703,499271,integrin subunit alpha X,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000062052,AC132057.2,ENSRNOG00000062052,,,lincRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000039649,Lnp1,ENSRNOG00000039649,100359918,leukemia NUP98 fusion partner 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000009912,Fgr,ENSRNOG00000009912,79113,"FGR proto-oncogene, Src family tyrosine kinase",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000019177,Psd2,ENSRNOG00000019177,307500,pleckstrin and Sec7 domain containing 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010888,Ankrd33b,ENSRNOG00000010888,310200,ankyrin repeat domain 33B,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000024277,Card11,ENSRNOG00000024277,100363332,"caspase recruitment domain family, member 11",processed_transcript,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000049213,Npy2r,ENSRNOG00000049213,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000011019,Faahl,ENSRNOG00000011019,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000032656,Ptprt,ENSRNOG00000032656,362263,"protein tyrosine phosphatase, receptor type, T",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000012719,Tdrd12,ENSRNOG00000012719,689639,tudor domain containing 12,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018339,Cabp2,ENSRNOG00000018339,499298,calcium binding protein 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000024630,Igsf23,ENSRNOG00000024630,502306,"immunoglobulin superfamily, member 23",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000049076,Vwc2,ENSRNOG00000049076,501231,von Willebrand factor C domain containing 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033984,Ifnlr1,ENSRNOG00000033984,362628,"interferon, lambda receptor 1",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000032626,Mmp3,ENSRNOG00000032626,171045,matrix metallopeptidase 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000048636,Il2rb,ENSRNOG00000048636,25746,interleukin 2 receptor subunit beta,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000029980,Zbtb16,ENSRNOG00000029980,353227,zinc finger and BTB domain containing 16,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000047737,Rpl7a,ENSRNOG00000047737,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000053679,AABR07060862.1,ENSRNOG00000053679,,,lincRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000002459,Fbxo40,ENSRNOG00000002459,363790,F-box protein 40,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000019854,Napsa,ENSRNOG00000019854,60575,napsin A aspartic peptidase,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000056493,Mybpc1,ENSRNOG00000056493,362867,myosin binding protein C1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000012807,C1qa,ENSRNOG00000012807,298566,complement C1q A chain,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016877,Shisa7,ENSRNOG00000016877,691429,shisa family member 7,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000025420,Cmtm2a,ENSRNOG00000025420,307616,CKLF-like MARVEL transmembrane domain containing 2A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000022863,Lingo4,ENSRNOG00000022863,499668,leucine rich repeat and Ig domain containing 4,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000037076,Clec2d2l1,ENSRNOG00000037076,689757,C-type lectin domain family 2 member D2 like 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016278,Ccl17,ENSRNOG00000016278,117518,C-C motif chemokine ligand 17,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033923,Aox2,ENSRNOG00000033923,316421,aldehyde oxidase 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000030726,Asgr2,ENSRNOG00000030726,29403,asialoglycoprotein receptor 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004589,Galnt16,ENSRNOG00000004589,362760,polypeptide N-acetylgalactosaminyltransferase 16,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000043416,Bcl3,ENSRNOG00000043416,680611,"BCL3, transcription coactivator",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000655,Ptprc,ENSRNOG00000000655,24699,"protein tyrosine phosphatase, receptor type, C",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000008045,Slamf9,ENSRNOG00000008045,289235,SLAM family member 9,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010018,Clec4a3,ENSRNOG00000010018,362431,"C-type lectin domain family 4, member A3",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000054860,Clec12a,ENSRNOG00000054860,680338,"C-type lectin domain family 12, member A",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013548,Selenow,ENSRNOG00000013548,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000024825,Fam163a,ENSRNOG00000024825,498257,"family with sequence similarity 163, member A",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006946,Arhgap9,ENSRNOG00000006946,362893,Rho GTPase activating protein 9,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000019270,P2ry6,ENSRNOG00000019270,117264,pyrimidinergic receptor P2Y6,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015562,Cdh17,ENSRNOG00000015562,117048,cadherin 17,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006360,Reg3a,ENSRNOG00000006360,171162,regenerating islet-derived 3 alpha,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000061154,LOC134480030,ENSRNOG00000061154,134480030,disks large homolog 5-like,lincRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000047280,Cttn,ENSRNOG00000047280,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000005871,Il1rn,ENSRNOG00000005871,60582,interleukin 1 receptor antagonist,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000008015,Fos,ENSRNOG00000008015,314322,"Fos proto-oncogene, AP-1 transcription factor subunit",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000009922,Prlhr,ENSRNOG00000009922,246075,prolactin releasing hormone receptor,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000046683,Lilrb3,ENSRNOG00000046683,308350,leukocyte immunoglobulin like receptor B3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000014202,Snx20,ENSRNOG00000014202,307742,sorting nexin 20,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001414,Serpine1,ENSRNOG00000001414,24617,serpin family E member 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000002475,Tpt1l1,ENSRNOG00000002475,500923,"tumor protein, translationally-controlled 1 like 1",processed_pseudogene,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013053,Trpm6,ENSRNOG00000013053,293874,"transient receptor potential cation channel, subfamily M, member 6",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000005214,Plek,ENSRNOG00000005214,364206,pleckstrin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000023536,Adgrd1,ENSRNOG00000023536,689257,adhesion G protein-coupled receptor D1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000002460,Serpinb2,ENSRNOG00000002460,60325,serpin family B member 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000021424,Cd300lf,ENSRNOG00000021424,287818,Cd300 molecule-like family member F,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033192,Osmr,ENSRNOG00000033192,310132,oncostatin M receptor,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010478,Serpina3l,ENSRNOG00000010478,299282,"serine (or cysteine) peptidase inhibitor, clade A, member 3L",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010266,Cd180,ENSRNOG00000010266,294706,CD180 molecule,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000037563,Cd68,ENSRNOG00000037563,287435,Cd68 molecule,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004641,Sstr4,ENSRNOG00000004641,25555,somatostatin receptor 4,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015418,Klhl14,ENSRNOG00000015418,364823,kelch-like family member 14,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000024230,Tnfaip8l3,ENSRNOG00000024230,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000000036,Klhdc8a,ENSRNOG00000000036,305096,kelch domain containing 8A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013925,Nox4,ENSRNOG00000013925,85431,NADPH oxidase 4,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000038600,Dnaaf3,ENSRNOG00000038600,100359753,"dynein, axonemal, assembly factor 3",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011445,Nkain1,ENSRNOG00000011445,500557,Sodium/potassium transporting ATPase interacting 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001480,Ncf1,ENSRNOG00000001480,114553,neutrophil cytosolic factor 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004870,Dyrk3,ENSRNOG00000004870,304775,dual specificity tyrosine phosphorylation regulated kinase 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007461,Klhl41,ENSRNOG00000007461,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000037203,Tgm7,ENSRNOG00000037203,102552199,transglutaminase 7,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000008586,Aldh1l2,ENSRNOG00000008586,299699,"aldehyde dehydrogenase 1 family, member L2",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000049115,Ccr5,ENSRNOG00000049115,117029,C-C motif chemokine receptor 5,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000061403,Tlr13,ENSRNOG00000061403,317227,toll-like receptor 13,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007740,Tacstd2,ENSRNOG00000007740,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000016385,Gabrd,ENSRNOG00000016385,29689,gamma-aminobutyric acid type A receptor subunit delta,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000045663,LOC102546678,ENSRNOG00000045663,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000008000,Syt13,ENSRNOG00000008000,80977,synaptotagmin 13,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013069,Sapcd2,ENSRNOG00000013069,680531,suppressor APC domain containing 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018895,Mchr1,ENSRNOG00000018895,83567,melanin-concentrating hormone receptor 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000006204,Slc30a3,ENSRNOG00000006204,366568,solute carrier family 30 member 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000047003,AABR07066693.1,ENSRNOG00000047003,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000024382,Fcgr3a,ENSRNOG00000024382,304966,Fc gamma receptor 3A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017395,Duox2,ENSRNOG00000017395,79107,dual oxidase 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000009768,LOC100912228,ENSRNOG00000009768,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000015867,Chst9,ENSRNOG00000015867,291770,carbohydrate sulfotransferase 9,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015027,Il18r1,ENSRNOG00000015027,301365,interleukin 18 receptor 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000061739,Klrk1,ENSRNOG00000061739,24934,killer cell lectin like receptor K1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003832,Vash2,ENSRNOG00000003832,498309,vasohibin 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015366,Neurl3,ENSRNOG00000015366,316326,neuralized E3 ubiquitin protein ligase 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000054843,AABR07005593.1,ENSRNOG00000054843,,,lincRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000047590,AABR07069913.1,ENSRNOG00000047590,,,lincRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000011947,Tifab,ENSRNOG00000011947,364674,TIFA inhibitor,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016714,Nrap,ENSRNOG00000016714,307982,nebulin-related anchoring protein,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000019763,Mlph,ENSRNOG00000019763,316620,melanophilin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000051986,Plcg2,ENSRNOG00000051986,29337,"phospholipase C, gamma 2",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013928,Dsp,ENSRNOG00000013928,306871,desmoplakin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000009785,Cdkn3,ENSRNOG00000009785,289993,cyclin-dependent kinase inhibitor 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000700,Tmem119,ENSRNOG00000000700,304581,transmembrane protein 119,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000026036,Pdyn,ENSRNOG00000026036,29190,prodynorphin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000023100,Dynlt5,ENSRNOG00000023100,362553,dynein light chain Tctex-type family member 5,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000024904,Pla2g4e,ENSRNOG00000024904,296091,"phospholipase A2, group IVE",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000029662,Wdfy4,ENSRNOG00000029662,498582,WDFY family member 4,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017539,Mmp9,ENSRNOG00000017539,81687,matrix metallopeptidase 9,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010278,Il6,ENSRNOG00000010278,24498,interleukin 6,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020465,Ripk3,ENSRNOG00000020465,246240,receptor-interacting serine-threonine kinase 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017689,Itih3,ENSRNOG00000017689,50693,"inter-alpha trypsin inhibitor, heavy chain 3",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000047113,Spsb2,ENSRNOG00000047113,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000032708,RT1-Bb,ENSRNOG00000032708,309622,"RT1 class II, locus Bb",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007581,Slc17a8,ENSRNOG00000007581,266767,solute carrier family 17 member 8,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000034246,Rps27a,ENSRNOG00000034246,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000046094,Cd151,ENSRNOG00000046094,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000011424,Cldn23,ENSRNOG00000011424,290789,claudin 23,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000187,Csf2rb,ENSRNOG00000000187,171081,colony stimulating factor 2 receptor subunit beta,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033693,Naip6,ENSRNOG00000033693,191568,"NLR family, apoptosis inhibitory protein 6",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003581,Pou2f1,ENSRNOG00000003581,171068,POU class 2 homeobox 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000023465,Depp1,ENSRNOG00000023465,500300,DEPP autophagy regulator 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000027171,Ndst2,ENSRNOG00000027171,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000015264,Lrrc38,ENSRNOG00000015264,313681,leucine rich repeat containing 38,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020025,Slc29a2,ENSRNOG00000020025,65194,solute carrier family 29 member 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033348,Duox1,ENSRNOG00000033348,266807,dual oxidase 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000016962,Neu2,ENSRNOG00000016962,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000058750,Vkorc1l1,ENSRNOG00000058750,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000024425,LOC100910636,ENSRNOG00000024425,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000050024,Ms4a4a,ENSRNOG00000050024,361734,membrane spanning 4-domains A4A,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004409,Sash3,ENSRNOG00000004409,317578,SAM and SH3 domain containing 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000056153,Tent5b,ENSRNOG00000056153,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000056390,AABR07007078.1,ENSRNOG00000056390,,,lincRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000005565,Traf3ip3,ENSRNOG00000005565,360900,TRAF3 interacting protein 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000057998,Cmtm2b,ENSRNOG00000057998,102554842,CKLF-like MARVEL transmembrane domain containing 2B,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000050042,Myh8,ENSRNOG00000050042,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000000017,Steap1,ENSRNOG00000000017,297738,STEAP family member 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000058416,LOC103691556,ENSRNOG00000058416,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000007918,Tbxas1,ENSRNOG00000007918,24886,thromboxane A synthase 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000008026,C2cd4c,ENSRNOG00000008026,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000016164,Fcrl2,ENSRNOG00000016164,310694,Fc receptor-like 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000047387,Lnpep,ENSRNOG00000047387,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000000728,Clic2,ENSRNOG00000000728,294141,CLIC family member 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000014350,Ccn1,ENSRNOG00000014350,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000030712,RT1-A2,ENSRNOG00000030712,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000019557,Asb18,ENSRNOG00000019557,316614,ankyrin repeat and SOCS box-containing 18,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000019484,Slc6a9,ENSRNOG00000019484,116509,solute carrier family 6 member 9,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000034258,Xirp2,ENSRNOG00000034258,311098,xin actin-binding repeat containing 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015502,Slc35a3,ENSRNOG00000015502,310808,solute carrier family 35 member A3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000025297,Gpr171,ENSRNOG00000025297,688737,G protein-coupled receptor 171,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000014378,Il1r2,ENSRNOG00000014378,117022,interleukin 1 receptor type 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000039863,Fam237b,ENSRNOG00000039863,120102225,family with sequence similarity 237 member B,pseudogene,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011542,Coa8,ENSRNOG00000011542,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000014835,Il1rl1,ENSRNOG00000014835,25556,interleukin 1 receptor-like 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007112,Pcsk1n,ENSRNOG00000007112,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000040350,Mir675,ENSRNOG00000040350,,,miRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000009528,Sdcbp2,ENSRNOG00000009528,311532,syndecan binding protein 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000050792,Tnfaip6,ENSRNOG00000050792,84397,TNF alpha induced protein 6,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000026051,AABR07044362.1,ENSRNOG00000026051,,,unprocessed_pseudogene,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000014361,Edn1,ENSRNOG00000014361,24323,endothelin 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011207,Gh1,ENSRNOG00000011207,24391,growth hormone 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000002013,Sidt1,ENSRNOG00000002013,288109,"SID1 transmembrane family, member 1",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000008939,Nxph1,ENSRNOG00000008939,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000031163,Nfkbiz,ENSRNOG00000031163,304005,NFKB inhibitor zeta,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020505,Map4k1,ENSRNOG00000020505,292763,mitogen activated protein kinase kinase kinase kinase 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018257,Hpx,ENSRNOG00000018257,58917,hemopexin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000045560,Gvin1,ENSRNOG00000045560,499229,"GTPase, very large interferon inducible 1",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000005077,AABR07015719.1,ENSRNOG00000005077,,,processed_pseudogene,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000014125,Evi2b,ENSRNOG00000014125,100910940,ecotropic viral integration site 2B,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000023892,Lce1f,ENSRNOG00000023892,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000014226,Plch2,ENSRNOG00000014226,313756,"phospholipase C, eta 2",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000054989,Grhl1,ENSRNOG00000054989,313993,grainyhead-like transcription factor 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003304,Chad,ENSRNOG00000003304,29195,chondroadherin,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000021484,AABR07003537.1,ENSRNOG00000021484,,,processed_pseudogene,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000000451,RT1-Ba,ENSRNOG00000000451,309621,"RT1 class II, locus Ba",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000057701,Myom1,ENSRNOG00000057701,316740,myomesin 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000050104,Clip3,ENSRNOG00000050104,308493,CAP-GLY domain containing linker protein 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000029756,P2ry13,ENSRNOG00000029756,310444,purinergic receptor P2Y13,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000010575,Dapp1,ENSRNOG00000010575,362046,dual adaptor of phosphotyrosine and 3-phosphoinositides 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000005491,Best3,ENSRNOG00000005491,314847,bestrophin 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000005575,Abi3,ENSRNOG00000005575,303476,"ABI family, member 3",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017609,Cnga4,ENSRNOG00000017609,85258,cyclic nucleotide gated channel subunit alpha 4,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000013123,Scube2,ENSRNOG00000013123,499241,"signal peptide, CUB domain and EGF like domain containing 2",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001830,Bmal2,ENSRNOG00000001830,362464,basic helix-loop-helix ARNT like 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000030187,Mmp12,ENSRNOG00000030187,117033,matrix metallopeptidase 12,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000024536,AABR07032338.1,ENSRNOG00000024536,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000003845,Wnt3,ENSRNOG00000003845,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000000634,Cabcoco1,ENSRNOG00000000634,361834,ciliary associated calcium binding coiled-coil 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000017987,Ucma,ENSRNOG00000017987,291312,upper zone of growth plate and cartilage matrix associated,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003054,AABR07037009.1,ENSRNOG00000003054,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000037085,Xirp1,ENSRNOG00000037085,100910104,xin actin-binding repeat containing 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000020105,Klhl30,ENSRNOG00000020105,316624,kelch-like family member 30,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000011533,Irx3,ENSRNOG00000011533,307721,iroquois homeobox 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000026091,Slc10a4,ENSRNOG00000026091,305309,"solute carrier family 10, member 4",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000000843,Ly6g6c,ENSRNOG00000000843,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000052537,AABR07050265.1,ENSRNOG00000052537,,,lincRNA,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000023227,AABR07052585.2,ENSRNOG00000023227,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000015411,Apobec1,ENSRNOG00000015411,25383,apolipoprotein B mRNA editing enzyme catalytic subunit 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000015248,Abca12,ENSRNOG00000015248,301482,ATP binding cassette subfamily A member 12,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000003244,Ltc4s,ENSRNOG00000003244,114097,leukotriene C4 synthase,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000026295,Rbpjl,ENSRNOG00000026295,362268,recombination signal binding protein for immunoglobulin kappa J region-like,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000036692,Gcgr,ENSRNOG00000036692,24953,glucagon receptor,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000033234,Ccrl2,ENSRNOG00000033234,316019,C-C motif chemokine receptor like 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001908,Klhl6,ENSRNOG00000001908,287974,kelch-like family member 6,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000018521,Nmur1,ENSRNOG00000018521,65276,neuromedin U receptor 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000004649,Il1b,ENSRNOG00000004649,24494,interleukin 1 beta,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000027079,Impad1,ENSRNOG00000027079,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000011599,Gldc,ENSRNOG00000011599,309312,glycine decarboxylase,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007575,Plppr1,ENSRNOG00000007575,298062,phospholipid phosphatase related 1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001425,Sh2b2,ENSRNOG00000001425,114203,SH2B adaptor protein 2,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000021856,Lat2,ENSRNOG00000021856,317676,"linker for activation of T cells family, member 2",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000024494,Cfap54,ENSRNOG00000024494,314740,cilia and flagella associated protein 54,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000007816,AC131483.1,ENSRNOG00000007816,,,pseudogene,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000002327,Gabrb1,ENSRNOG00000002327,25450,gamma-aminobutyric acid type A receptor subunit beta1,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000036677,Slc16a3,ENSRNOG00000036677,80878,solute carrier family 16 member 3,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000031478,Zfp663,ENSRNOG00000031478,100362089,zinc finger protein 663,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000042944,Cenpw,ENSRNOG00000042944,689399,centromere protein W,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000001658,Kcnj6,ENSRNOG00000001658,25743,"potassium inwardly-rectifying channel, subfamily J, member 6",protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000048053,Slfn1,ENSRNOG00000048053,688900,schlafen family member 1,transcribed_processed_pseudogene,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000046699,Slpi,ENSRNOG00000046699,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000002919,Gfap,ENSRNOG00000002919,24387,glial fibrillary acidic protein,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000049942,C16h10orf71,ENSRNOG00000049942,498579,similar to human chromosome 10 open reading frame 71,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000028636,Xkr5,ENSRNOG00000028636,497083,XK related 5,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
+ENSRNOG00000061059,LOC103694079,ENSRNOG00000061059,,,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; no current NCBI Gene cross-reference
+ENSRNOG00000002120,Spata18,ENSRNOG00000002120,289586,spermatogenesis associated 18,protein_coding,uniquely_mapped,Unique Ensembl gene record in release-104 GTF; unique NCBI gene2ensembl cross-reference
