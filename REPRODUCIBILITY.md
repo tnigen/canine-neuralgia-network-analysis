@@ -2,7 +2,7 @@
 
 ## Final dataset and workflow
 
-The final mapping workbook has 4,919 drug-target rows for 1,546 distinct drugs. The copies in `02_canine_string_mapping`, `04_network_proximity`, and `05_publication_figures/data` are byte-identical. The ortholog output is identical to the STRING-mapping input.
+The final mapping workbook has 4,919 drug-target rows for 1,546 distinct drugs. The copies in `02_canine_string_mapping`, `04_network_proximity`, and `06_publication_figures/data` are byte-identical. The ortholog output is identical to the STRING-mapping input.
 
 Both proximity rankings and their supporting drug-level QC tables contain the same 1,546 drugs. The 700 ranking includes 1,531 analyzed drugs and 15 skipped drugs. The 900 ranking includes 1,420 analyzed drugs and 126 skipped drugs. Null-distribution rows correspond to the analyzed drugs, with 1,000 draws per drug.
 
@@ -26,7 +26,7 @@ The plotting folder includes regenerated PDFs and PNGs from the supplied ranking
 
 ## GSE224814 differential expression
 
-`06_GSE224814_differential_expression` contains the six-sample rat count matrix,
+`05_GSE224814_differential_expression` contains the six-sample rat count matrix,
 metadata, featureCounts records, original statistical outputs, annotation, and
 figures. The archived 32,623-feature matrix yields 15,029 features after the
 original low-count filter and 431 primary DEGs (368 up, 63 down).

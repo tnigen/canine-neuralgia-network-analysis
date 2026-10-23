@@ -9,4 +9,4 @@ authors:
 version: 1.0.0
 license: MIT
 repository-code: "https://github.com/tnigen/canine-neuralgia-network-analysis"
-url: "https://github.com/tnigen/canine-neuralgia-network-analysis/tree/main/06_GSE224814_differential_expression"
+url: "https://github.com/tnigen/canine-neuralgia-network-analysis/tree/main/05_GSE224814_differential_expression"

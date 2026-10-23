@@ -12,15 +12,14 @@ The publication dataset contains 1,546 drugs. The primary ranking uses STRING sc
 | [02_canine_string_mapping](02_canine_string_mapping/README.md) | Canine gene symbols to STRING protein IDs | `map_dog_targets_to_string.py` |
 | [03_disease_module_lcc](03_disease_module_lcc/README.md) | Disease-module connectivity and LCC significance | `canine_neuralgia_LCC_netmedpy.py` |
 | [04_network_proximity](04_network_proximity/README.md) | Drug-target proximity to the disease set | `run_proximity.py` |
-| [05_publication_figures](05_publication_figures/README.md) | Ranking, stability, clinical-reference, and target-profile plots | `figure_scripts/` |
-| [06_GSE224814_differential_expression](06_GSE224814_differential_expression/README.md) | Rat trigeminal-ganglion RNA-seq reanalysis, counts, DEGs, and QC | `scripts/run_analysis.py` |
+| [05_GSE224814_differential_expression](05_GSE224814_differential_expression/README.md) | Rat trigeminal-ganglion RNA-seq reanalysis, counts, DEGs, and QC | `scripts/run_analysis.py` |
+| [06_publication_figures](06_publication_figures/README.md) | Ranking, stability, clinical-reference, and target-profile plots | `figure_scripts/` |
 
 The ortholog output matches the STRING-mapping input exactly. The final STRING-mapping workbook is used by both the proximity analysis and the figure scripts. It contains 4,919 target rows for 1,546 drugs.
 
 The LCC analysis and proximity analysis answer different questions. LCC evaluates connectivity among disease proteins. Proximity uses the complete supplied disease union, subject to background-network coverage exclusions; it does not substitute the disease-induced LCC. Figure generation uses the archived primary 700 ranking, with the 900 ranking used for stability comparisons.
 
-The GSE224814 folder is a separate rat differential-expression analysis, appended
-to the numbered collection rather than a downstream step after plotting. It
+The GSE224814 folder contains a separate rat differential-expression analysis. It
 includes six-sample raw counts, source metadata, archived results, and figures.
 Its 431 DEGs use `padj < 0.05` and `abs(log2FoldChange) >= 1`. It does not perform
 rat-to-dog mapping or establish the provenance of the complete disease-ID union.
@@ -58,7 +57,7 @@ These two examples start from the repository root. File-integrity verification c
 The GSE224814 saved-data checks use the Python standard library:
 
 ```bash
-cd 06_GSE224814_differential_expression
+cd 05_GSE224814_differential_expression
 python -m unittest discover -s tests -v
 ```
 

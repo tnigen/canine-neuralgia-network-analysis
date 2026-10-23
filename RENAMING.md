@@ -6,8 +6,8 @@
 | `drug target/` | `02_canine_string_mapping/` |
 | `Neuralgia_LCC/` | `03_disease_module_lcc/` |
 | `proximity/` | `04_network_proximity/` |
-| `figures/` | `05_publication_figures/` |
-| `GSE224814/GSE224814_analysis/` | `06_GSE224814_differential_expression/` |
+| `GSE224814/GSE224814_analysis/` | `05_GSE224814_differential_expression/` |
+| `figures/` | `06_publication_figures/` |
 
 LCC archives were also reorganized:
 
